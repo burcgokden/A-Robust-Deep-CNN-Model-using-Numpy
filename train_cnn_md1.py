@@ -9,7 +9,7 @@ from cnn_md1_funs import *
 
 ## Hyperparameters
 NUM_OUTPUT = 10
-LEARNING_RATE =0.01 # 0.01	#learning rate
+LEARNING_RATE =0.01 
 IMG_WIDTH = 28
 IMG_DEPTH = 1
 FILTER_SIZE1=10
@@ -66,13 +66,13 @@ for i in range(0,NUM_FILT1):
 	bias1[i] = 0.1
 	gdfilt1[i]=np.zeros(filt1[i].shape)
 	gdbias1[i]=0
-	# v1[i] = 0
+
 for i in range(0,NUM_FILT2):
 	filt2[i] = initialize_weight_tnorm((NUM_FILT1, FILTER_SIZE2, FILTER_SIZE2))
 	bias2[i] = 0.1
 	gdfilt2[i] = np.zeros(filt2[i].shape)
 	gdbias2[i] = 0
-	# v2[i] = 0
+
 w1 = int(np.floor((IMG_WIDTH-FILTER_SIZE1+STRIDE)/STRIDE))
 w1_pool1=int(np.floor((w1-POOLSIZE+STRIDE)/STRIDE)) #check
 w2 = int(np.floor((w1_pool1-FILTER_SIZE2+STRIDE)/STRIDE))
