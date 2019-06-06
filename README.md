@@ -40,7 +40,7 @@ To train the model using MNIST data set, run as:
 ```
 python train_cnn_md1.py 1
 ```
-Training generates output_cnn_md1.pickle file that stores trained model variables for prediction and a log file train_cnn_md1_log.txt showing loss and accuracy progress. These files are  generated from a prior run and available in the repo.
+Training generates output_cnn_md1.pickle file that stores trained model variables for prediction and a log file train_cnn_md1_log.txt showing loss and accuracy progress. Log files are  generated from a prior run and available in the repo.
 
 Training uses 5 epochs with 100 images/batch and total of 20000 images per epoch. (less than half of total MNIST training images.)
 
@@ -55,7 +55,7 @@ The trained model predicts the MNIST test data with ~94% accuracy.
 
 
 ### Acknowledgements:
-MNIST implemnetation from below repo was used as a starting point for implementing this deeper CNN model and to prepare MNIST data: 
+MNIST implementation from below repo was used as a starting point for implementing this deeper CNN model and to prepare MNIST data: 
 https://github.com/zishansami102/CNN-from-Scratch/.
 
 Another repo with useful ideas and insights:
