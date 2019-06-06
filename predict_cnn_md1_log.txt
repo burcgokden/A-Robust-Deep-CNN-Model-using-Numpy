@@ -1,0 +1,43 @@
+predicting for test dataset with trained model file:output_cnn_md1.pickle
+Computing accuracy over test set:
+5.0% Completed
+Test Set Accuracy: 93.60000000000001% Test Set Loss: 0.01859128365664434%
+10.0% Completed
+Test Set Accuracy: 92.60000000000001% Test Set Loss: 0.025790931277246448%
+15.0% Completed
+Test Set Accuracy: 91.46666666666667% Test Set Loss: 0.03295281796608357%
+20.0% Completed
+Test Set Accuracy: 91.25% Test Set Loss: 0.03326059009218475%
+25.0% Completed
+Test Set Accuracy: 91.08000000000001% Test Set Loss: 0.03334376958971691%
+30.0% Completed
+Test Set Accuracy: 91.5% Test Set Loss: 0.03187674139901817%
+35.0% Completed
+Test Set Accuracy: 91.60000000000001% Test Set Loss: 0.03183564699409086%
+40.0% Completed
+Test Set Accuracy: 91.35% Test Set Loss: 0.03274253897396275%
+45.0% Completed
+Test Set Accuracy: 91.4% Test Set Loss: 0.032581455468225606%
+50.0% Completed
+Test Set Accuracy: 91.42% Test Set Loss: 0.03276091557086154%
+55.00000000000001% Completed
+Test Set Accuracy: 91.92727272727272% Test Set Loss: 0.030561735070703956%
+60.0% Completed
+Test Set Accuracy: 92.10000000000001% Test Set Loss: 0.03003377097088657%
+65.0% Completed
+Test Set Accuracy: 92.41538461538461% Test Set Loss: 0.028379424704765833%
+70.0% Completed
+Test Set Accuracy: 92.61428571428571% Test Set Loss: 0.027483780919731252%
+75.0% Completed
+Test Set Accuracy: 92.88% Test Set Loss: 0.026456987412696087%
+80.0% Completed
+Test Set Accuracy: 93.10000000000001% Test Set Loss: 0.025584532485764103%
+85.0% Completed
+Test Set Accuracy: 93.24705882352941% Test Set Loss: 0.024934465993409625%
+90.0% Completed
+Test Set Accuracy: 93.53333333333333% Test Set Loss: 0.023807589300867512%
+95.0% Completed
+Test Set Accuracy: 93.67368421052632% Test Set Loss: 0.02337929745131972%
+100.0% Completed
+Test Set Accuracy: 93.58% Test Set Loss: 0.023517888349390118%
+Final Test Set Accuracy: 93.58% Test Set Loss: 0.023517888349390118

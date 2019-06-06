@@ -1,0 +1,2001 @@
+Learning Rate:0.01, Batch Size:100
+Epoch:0.5% Of 1/5, Loss:[1.5268394], Batch Acc:7.000000000000001%, Epoch Acc:7.000000000000001%
+########  8.638055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:1.0% Of 1/5, Loss:[1.84437066], Batch Acc:11.0%, Epoch Acc:9.0%
+########  8.554166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:1.5% Of 1/5, Loss:[1.78180842], Batch Acc:14.000000000000002%, Epoch Acc:11.0%
+########  8.543888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:2.0% Of 1/5, Loss:[0.38634652], Batch Acc:31.0%, Epoch Acc:16.0%
+########  8.475833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:2.5% Of 1/5, Loss:[0.36075672], Batch Acc:28.999999999999996%, Epoch Acc:18.0%
+########  8.526666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:3.0% Of 1/5, Loss:[0.258181], Batch Acc:42.0%, Epoch Acc:22.0%
+########  8.4925Hrs 0Mins 0Secs remaining  ########
+Epoch:3.5% Of 1/5, Loss:[0.22499817], Batch Acc:37.0%, Epoch Acc:24.0%
+########  8.515Hrs 0Mins 0Secs remaining  ########
+Epoch:4.0% Of 1/5, Loss:[0.30912294], Batch Acc:37.0%, Epoch Acc:26.0%
+########  8.495277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:4.5% Of 1/5, Loss:[0.23607302], Batch Acc:31.0%, Epoch Acc:27.0%
+########  8.456666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:5.0% Of 1/5, Loss:[0.21594605], Batch Acc:32.0%, Epoch Acc:27.0%
+########  8.393888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:5.5% Of 1/5, Loss:[0.21032618], Batch Acc:36.0%, Epoch Acc:28.000000000000004%
+########  8.407777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:6.0% Of 1/5, Loss:[0.21589643], Batch Acc:38.0%, Epoch Acc:28.999999999999996%
+########  8.3825Hrs 0Mins 0Secs remaining  ########
+Epoch:6.5% Of 1/5, Loss:[0.22086657], Batch Acc:28.000000000000004%, Epoch Acc:28.999999999999996%
+########  8.3925Hrs 0Mins 0Secs remaining  ########
+Epoch:7.0% Of 1/5, Loss:[0.22104979], Batch Acc:34.0%, Epoch Acc:28.999999999999996%
+########  8.441666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:7.5% Of 1/5, Loss:[0.22928968], Batch Acc:27.0%, Epoch Acc:28.999999999999996%
+########  8.414722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:8.0% Of 1/5, Loss:[0.21877879], Batch Acc:33.0%, Epoch Acc:28.999999999999996%
+########  8.463333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:8.5% Of 1/5, Loss:[0.21799715], Batch Acc:28.000000000000004%, Epoch Acc:28.999999999999996%
+########  8.428611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:9.0% Of 1/5, Loss:[0.21461865], Batch Acc:25.0%, Epoch Acc:28.999999999999996%
+########  8.404722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:9.5% Of 1/5, Loss:[0.21778667], Batch Acc:35.0%, Epoch Acc:28.999999999999996%
+########  8.346388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:10.0% Of 1/5, Loss:[0.2024098], Batch Acc:38.0%, Epoch Acc:30.0%
+########  8.330555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:10.5% Of 1/5, Loss:[0.20716688], Batch Acc:27.0%, Epoch Acc:30.0%
+########  8.339722222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:11.0% Of 1/5, Loss:[0.20460308], Batch Acc:31.0%, Epoch Acc:30.0%
+########  8.359166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:11.5% Of 1/5, Loss:[0.18384352], Batch Acc:46.0%, Epoch Acc:30.0%
+########  8.358333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:12.0% Of 1/5, Loss:[0.21490196], Batch Acc:27.0%, Epoch Acc:30.0%
+########  8.296666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:12.5% Of 1/5, Loss:[0.21100802], Batch Acc:30.0%, Epoch Acc:30.0%
+########  8.3625Hrs 0Mins 0Secs remaining  ########
+Epoch:13.0% Of 1/5, Loss:[0.19417121], Batch Acc:38.0%, Epoch Acc:30.0%
+########  8.27138888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:13.5% Of 1/5, Loss:[0.21640069], Batch Acc:25.0%, Epoch Acc:30.0%
+########  8.292777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:14.0% Of 1/5, Loss:[0.20290223], Batch Acc:39.0%, Epoch Acc:31.0%
+########  8.301111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:14.5% Of 1/5, Loss:[0.19254914], Batch Acc:35.0%, Epoch Acc:31.0%
+########  8.297222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:15.0% Of 1/5, Loss:[0.21979866], Batch Acc:32.0%, Epoch Acc:31.0%
+########  8.196388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:15.5% Of 1/5, Loss:[0.18643283], Batch Acc:33.0%, Epoch Acc:31.0%
+########  8.289722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:16.0% Of 1/5, Loss:[0.196466], Batch Acc:40.0%, Epoch Acc:31.0%
+########  8.293611111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:16.5% Of 1/5, Loss:[0.19767516], Batch Acc:40.0%, Epoch Acc:31.0%
+########  8.210833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:17.0% Of 1/5, Loss:[0.29761309], Batch Acc:38.0%, Epoch Acc:32.0%
+########  8.30638888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:17.5% Of 1/5, Loss:[0.18774782], Batch Acc:38.0%, Epoch Acc:32.0%
+########  8.239166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:18.0% Of 1/5, Loss:[0.18818486], Batch Acc:34.0%, Epoch Acc:32.0%
+########  8.209444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:18.5% Of 1/5, Loss:[0.17333015], Batch Acc:36.0%, Epoch Acc:32.0%
+########  8.243055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:19.0% Of 1/5, Loss:[0.19520144], Batch Acc:36.0%, Epoch Acc:32.0%
+########  8.21111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:19.5% Of 1/5, Loss:[0.20815808], Batch Acc:35.0%, Epoch Acc:32.0%
+########  8.160555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:20.0% Of 1/5, Loss:[0.18631627], Batch Acc:38.0%, Epoch Acc:32.0%
+########  8.179722222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:20.5% Of 1/5, Loss:[0.20091669], Batch Acc:35.0%, Epoch Acc:32.0%
+########  8.124444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:21.0% Of 1/5, Loss:[0.16158945], Batch Acc:49.0%, Epoch Acc:33.0%
+########  8.188611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:21.5% Of 1/5, Loss:[0.19263859], Batch Acc:33.0%, Epoch Acc:33.0%
+########  8.155277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:22.0% Of 1/5, Loss:[0.18386537], Batch Acc:42.0%, Epoch Acc:33.0%
+########  8.180277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:22.5% Of 1/5, Loss:[0.21063059], Batch Acc:34.0%, Epoch Acc:33.0%
+########  8.165833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:23.0% Of 1/5, Loss:[0.17506355], Batch Acc:40.0%, Epoch Acc:33.0%
+########  8.108055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:23.5% Of 1/5, Loss:[0.1860469], Batch Acc:37.0%, Epoch Acc:33.0%
+########  8.1175Hrs 0Mins 0Secs remaining  ########
+Epoch:24.0% Of 1/5, Loss:[0.18094738], Batch Acc:35.0%, Epoch Acc:33.0%
+########  8.178888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:24.5% Of 1/5, Loss:[0.17286262], Batch Acc:48.0%, Epoch Acc:34.0%
+########  8.116388888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:25.0% Of 1/5, Loss:[0.18949006], Batch Acc:40.0%, Epoch Acc:34.0%
+########  8.11Hrs 0Mins 0Secs remaining  ########
+Epoch:25.5% Of 1/5, Loss:[0.16807783], Batch Acc:47.0%, Epoch Acc:34.0%
+########  8.131944444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:26.0% Of 1/5, Loss:[0.16459248], Batch Acc:44.0%, Epoch Acc:34.0%
+########  8.086388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:26.5% Of 1/5, Loss:[0.17452562], Batch Acc:45.0%, Epoch Acc:34.0%
+########  8.136944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:27.0% Of 1/5, Loss:[0.17481657], Batch Acc:44.0%, Epoch Acc:35.0%
+########  8.045Hrs 0Mins 0Secs remaining  ########
+Epoch:27.5% Of 1/5, Loss:[0.16250788], Batch Acc:45.0%, Epoch Acc:35.0%
+########  8.079444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:28.0% Of 1/5, Loss:[0.15952676], Batch Acc:48.0%, Epoch Acc:35.0%
+########  8.033333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:28.5% Of 1/5, Loss:[0.17760341], Batch Acc:37.0%, Epoch Acc:35.0%
+########  8.04Hrs 0Mins 0Secs remaining  ########
+Epoch:29.0% Of 1/5, Loss:[0.15285894], Batch Acc:46.0%, Epoch Acc:35.0%
+########  8.058055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:29.5% Of 1/5, Loss:[0.17299987], Batch Acc:42.0%, Epoch Acc:35.0%
+########  8.124166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:30.0% Of 1/5, Loss:[0.14241535], Batch Acc:53.0%, Epoch Acc:36.0%
+########  8.01388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:30.5% Of 1/5, Loss:[0.17738425], Batch Acc:43.0%, Epoch Acc:36.0%
+########  8.044722222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:31.0% Of 1/5, Loss:[0.14800648], Batch Acc:60.0%, Epoch Acc:36.0%
+########  8.018611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:31.5% Of 1/5, Loss:[0.1556911], Batch Acc:55.00000000000001%, Epoch Acc:36.0%
+########  7.9527777777777775Hrs 0Mins 0Secs remaining  ########
+Epoch:32.0% Of 1/5, Loss:[0.16455958], Batch Acc:55.00000000000001%, Epoch Acc:37.0%
+########  7.918333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:32.5% Of 1/5, Loss:[0.17355441], Batch Acc:41.0%, Epoch Acc:37.0%
+########  7.87Hrs 0Mins 0Secs remaining  ########
+Epoch:33.0% Of 1/5, Loss:[0.16984481], Batch Acc:46.0%, Epoch Acc:37.0%
+########  7.995277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:33.5% Of 1/5, Loss:[0.16289966], Batch Acc:55.00000000000001%, Epoch Acc:37.0%
+########  7.9925Hrs 0Mins 0Secs remaining  ########
+Epoch:34.0% Of 1/5, Loss:[0.1382963], Batch Acc:55.00000000000001%, Epoch Acc:37.0%
+########  7.983611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:34.5% Of 1/5, Loss:[0.13987361], Batch Acc:47.0%, Epoch Acc:38.0%
+########  7.873888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:35.0% Of 1/5, Loss:[0.13981143], Batch Acc:56.00000000000001%, Epoch Acc:38.0%
+########  7.923333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:35.5% Of 1/5, Loss:[0.14672747], Batch Acc:59.0%, Epoch Acc:38.0%
+########  7.920833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:36.0% Of 1/5, Loss:[0.13835836], Batch Acc:60.0%, Epoch Acc:38.0%
+########  7.966388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:36.5% Of 1/5, Loss:[0.13777853], Batch Acc:56.00000000000001%, Epoch Acc:39.0%
+########  7.903888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:37.0% Of 1/5, Loss:[0.15792963], Batch Acc:50.0%, Epoch Acc:39.0%
+########  7.870277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:37.5% Of 1/5, Loss:[0.14787435], Batch Acc:57.99999999999999%, Epoch Acc:39.0%
+########  7.885833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:38.0% Of 1/5, Loss:[0.13827344], Batch Acc:57.99999999999999%, Epoch Acc:39.0%
+########  7.881944444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:38.5% Of 1/5, Loss:[0.1387042], Batch Acc:53.0%, Epoch Acc:40.0%
+########  7.892777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:39.0% Of 1/5, Loss:[0.1291619], Batch Acc:59.0%, Epoch Acc:40.0%
+########  7.801388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:39.5% Of 1/5, Loss:[0.14851587], Batch Acc:54.0%, Epoch Acc:40.0%
+########  7.863611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:40.0% Of 1/5, Loss:[0.12912706], Batch Acc:62.0%, Epoch Acc:40.0%
+########  7.865833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:40.5% Of 1/5, Loss:[0.1385048], Batch Acc:54.0%, Epoch Acc:40.0%
+########  7.885277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:41.0% Of 1/5, Loss:[0.11979697], Batch Acc:65.0%, Epoch Acc:41.0%
+########  7.8277777777777775Hrs 0Mins 0Secs remaining  ########
+Epoch:41.5% Of 1/5, Loss:[0.12528259], Batch Acc:59.0%, Epoch Acc:41.0%
+########  7.786666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:42.0% Of 1/5, Loss:[0.15530909], Batch Acc:54.0%, Epoch Acc:41.0%
+########  7.86Hrs 0Mins 0Secs remaining  ########
+Epoch:42.5% Of 1/5, Loss:[0.13620169], Batch Acc:59.0%, Epoch Acc:41.0%
+########  7.761666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:43.0% Of 1/5, Loss:[0.12949687], Batch Acc:57.99999999999999%, Epoch Acc:41.0%
+########  7.768055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:43.5% Of 1/5, Loss:[0.12859076], Batch Acc:64.0%, Epoch Acc:42.0%
+########  7.8052777777777775Hrs 0Mins 0Secs remaining  ########
+Epoch:44.0% Of 1/5, Loss:[0.13755918], Batch Acc:60.0%, Epoch Acc:42.0%
+########  7.763888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:44.5% Of 1/5, Loss:[0.10240927], Batch Acc:70.0%, Epoch Acc:42.0%
+########  7.765555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:45.0% Of 1/5, Loss:[0.12898105], Batch Acc:70.0%, Epoch Acc:43.0%
+########  7.7175Hrs 0Mins 0Secs remaining  ########
+Epoch:45.5% Of 1/5, Loss:[0.1273911], Batch Acc:57.99999999999999%, Epoch Acc:43.0%
+########  7.641944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:46.0% Of 1/5, Loss:[0.11371751], Batch Acc:69.0%, Epoch Acc:43.0%
+########  7.688888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:46.5% Of 1/5, Loss:[0.09275378], Batch Acc:72.0%, Epoch Acc:43.0%
+########  7.751666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:47.0% Of 1/5, Loss:[0.11126533], Batch Acc:66.0%, Epoch Acc:44.0%
+########  7.6925Hrs 0Mins 0Secs remaining  ########
+Epoch:47.5% Of 1/5, Loss:[0.11625011], Batch Acc:71.0%, Epoch Acc:44.0%
+########  7.703611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:48.0% Of 1/5, Loss:[0.11483829], Batch Acc:62.0%, Epoch Acc:44.0%
+########  7.695Hrs 0Mins 0Secs remaining  ########
+Epoch:48.5% Of 1/5, Loss:[0.08981725], Batch Acc:72.0%, Epoch Acc:44.0%
+########  7.714722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:49.0% Of 1/5, Loss:[0.10116825], Batch Acc:70.0%, Epoch Acc:45.0%
+########  7.621666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:49.5% Of 1/5, Loss:[0.10848713], Batch Acc:65.0%, Epoch Acc:45.0%
+########  7.655277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:50.0% Of 1/5, Loss:[0.14903741], Batch Acc:63.0%, Epoch Acc:45.0%
+########  7.699166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:50.5% Of 1/5, Loss:[0.12593954], Batch Acc:61.0%, Epoch Acc:45.0%
+########  7.646388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:51.0% Of 1/5, Loss:[0.11864275], Batch Acc:67.0%, Epoch Acc:45.0%
+########  7.660277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:51.5% Of 1/5, Loss:[0.10711348], Batch Acc:70.0%, Epoch Acc:46.0%
+########  7.674444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:52.0% Of 1/5, Loss:[0.09347707], Batch Acc:76.0%, Epoch Acc:46.0%
+########  7.616944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:52.5% Of 1/5, Loss:[0.08535593], Batch Acc:73.0%, Epoch Acc:46.0%
+########  7.605555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:53.0% Of 1/5, Loss:[0.1153413], Batch Acc:68.0%, Epoch Acc:46.0%
+########  7.650833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:53.5% Of 1/5, Loss:[0.1035205], Batch Acc:65.0%, Epoch Acc:47.0%
+########  7.649166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:54.0% Of 1/5, Loss:[0.07531363], Batch Acc:75.0%, Epoch Acc:47.0%
+########  7.588888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:54.5% Of 1/5, Loss:[0.0904409], Batch Acc:75.0%, Epoch Acc:47.0%
+########  7.539722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:55.0% Of 1/5, Loss:[0.11145956], Batch Acc:68.0%, Epoch Acc:47.0%
+########  7.584444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:55.5% Of 1/5, Loss:[0.08290722], Batch Acc:75.0%, Epoch Acc:47.0%
+########  7.557777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:56.0% Of 1/5, Loss:[0.07825753], Batch Acc:75.0%, Epoch Acc:48.0%
+########  7.711111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:56.5% Of 1/5, Loss:[0.09179566], Batch Acc:76.0%, Epoch Acc:48.0%
+########  7.526666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:57.0% Of 1/5, Loss:[0.10559397], Batch Acc:64.0%, Epoch Acc:48.0%
+########  7.558888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:57.5% Of 1/5, Loss:[0.07587143], Batch Acc:78.0%, Epoch Acc:48.0%
+########  7.562222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:58.0% Of 1/5, Loss:[0.09151512], Batch Acc:73.0%, Epoch Acc:49.0%
+########  7.508055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:58.5% Of 1/5, Loss:[0.10088448], Batch Acc:65.0%, Epoch Acc:49.0%
+########  7.554166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:59.0% Of 1/5, Loss:[0.08498099], Batch Acc:72.0%, Epoch Acc:49.0%
+########  7.479166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:59.5% Of 1/5, Loss:[0.07474651], Batch Acc:79.0%, Epoch Acc:49.0%
+########  7.503333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:60.0% Of 1/5, Loss:[0.08254374], Batch Acc:74.0%, Epoch Acc:49.0%
+########  7.467222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:60.5% Of 1/5, Loss:[0.08928915], Batch Acc:72.0%, Epoch Acc:50.0%
+########  7.508055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:61.0% Of 1/5, Loss:[0.0974008], Batch Acc:68.0%, Epoch Acc:50.0%
+########  7.448611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:61.5% Of 1/5, Loss:[0.09544585], Batch Acc:68.0%, Epoch Acc:50.0%
+########  7.478611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:62.0% Of 1/5, Loss:[0.10026991], Batch Acc:73.0%, Epoch Acc:50.0%
+########  7.447222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:62.5% Of 1/5, Loss:[0.06318056], Batch Acc:79.0%, Epoch Acc:50.0%
+########  7.389166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:63.0% Of 1/5, Loss:[0.08453092], Batch Acc:73.0%, Epoch Acc:50.0%
+########  7.445555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:63.5% Of 1/5, Loss:[0.07079134], Batch Acc:83.0%, Epoch Acc:51.0%
+########  7.477222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:64.0% Of 1/5, Loss:[0.08447312], Batch Acc:77.0%, Epoch Acc:51.0%
+########  7.408611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:64.5% Of 1/5, Loss:[0.0754596], Batch Acc:74.0%, Epoch Acc:51.0%
+########  7.408333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:65.0% Of 1/5, Loss:[0.08374487], Batch Acc:74.0%, Epoch Acc:51.0%
+########  7.394444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:65.5% Of 1/5, Loss:[0.06603529], Batch Acc:78.0%, Epoch Acc:51.0%
+########  7.344444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:66.0% Of 1/5, Loss:[0.09122282], Batch Acc:73.0%, Epoch Acc:52.0%
+########  7.385833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:66.5% Of 1/5, Loss:[0.07959878], Batch Acc:77.0%, Epoch Acc:52.0%
+########  7.358333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:67.0% Of 1/5, Loss:[0.08365106], Batch Acc:76.0%, Epoch Acc:52.0%
+########  7.361111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:67.5% Of 1/5, Loss:[0.09089045], Batch Acc:75.0%, Epoch Acc:52.0%
+########  7.313888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:68.0% Of 1/5, Loss:[0.05839687], Batch Acc:81.0%, Epoch Acc:52.0%
+########  7.330555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:68.5% Of 1/5, Loss:[0.09449713], Batch Acc:72.0%, Epoch Acc:53.0%
+########  7.3375Hrs 0Mins 0Secs remaining  ########
+Epoch:69.0% Of 1/5, Loss:[0.09414525], Batch Acc:73.0%, Epoch Acc:53.0%
+########  7.336111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:69.5% Of 1/5, Loss:[0.06389102], Batch Acc:80.0%, Epoch Acc:53.0%
+########  7.324722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:70.0% Of 1/5, Loss:[0.07910781], Batch Acc:72.0%, Epoch Acc:53.0%
+########  7.308611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:70.5% Of 1/5, Loss:[0.09739897], Batch Acc:68.0%, Epoch Acc:53.0%
+########  7.286666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:71.0% Of 1/5, Loss:[0.0943631], Batch Acc:77.0%, Epoch Acc:53.0%
+########  7.280833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:71.5% Of 1/5, Loss:[0.07659298], Batch Acc:74.0%, Epoch Acc:53.0%
+########  7.308888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:72.0% Of 1/5, Loss:[0.08014437], Batch Acc:71.0%, Epoch Acc:54.0%
+########  7.2475Hrs 0Mins 0Secs remaining  ########
+Epoch:72.5% Of 1/5, Loss:[0.10479728], Batch Acc:76.0%, Epoch Acc:54.0%
+########  7.224444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:73.0% Of 1/5, Loss:[0.08911988], Batch Acc:75.0%, Epoch Acc:54.0%
+########  7.2175Hrs 0Mins 0Secs remaining  ########
+Epoch:73.5% Of 1/5, Loss:[0.07070702], Batch Acc:79.0%, Epoch Acc:54.0%
+########  7.2219444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:74.0% Of 1/5, Loss:[0.07330246], Batch Acc:75.0%, Epoch Acc:54.0%
+########  7.2091666666666665Hrs 0Mins 0Secs remaining  ########
+Epoch:74.5% Of 1/5, Loss:[0.0741947], Batch Acc:77.0%, Epoch Acc:54.0%
+########  7.226388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:75.0% Of 1/5, Loss:[0.08393404], Batch Acc:78.0%, Epoch Acc:55.00000000000001%
+########  7.243888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:75.5% Of 1/5, Loss:[0.05401836], Batch Acc:84.0%, Epoch Acc:55.00000000000001%
+########  7.187222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:76.0% Of 1/5, Loss:[0.0719406], Batch Acc:83.0%, Epoch Acc:55.00000000000001%
+########  7.160833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:76.5% Of 1/5, Loss:[0.09607041], Batch Acc:74.0%, Epoch Acc:55.00000000000001%
+########  7.1594444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:77.0% Of 1/5, Loss:[0.07505129], Batch Acc:76.0%, Epoch Acc:55.00000000000001%
+########  7.151388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:77.5% Of 1/5, Loss:[0.08620557], Batch Acc:75.0%, Epoch Acc:55.00000000000001%
+########  7.168888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:78.0% Of 1/5, Loss:[0.08427491], Batch Acc:77.0%, Epoch Acc:55.00000000000001%
+########  7.163611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:78.5% Of 1/5, Loss:[0.0589431], Batch Acc:78.0%, Epoch Acc:56.00000000000001%
+########  7.135555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:79.0% Of 1/5, Loss:[0.07411751], Batch Acc:79.0%, Epoch Acc:56.00000000000001%
+########  7.1530555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:79.5% Of 1/5, Loss:[0.05016171], Batch Acc:86.0%, Epoch Acc:56.00000000000001%
+########  7.2Hrs 0Mins 0Secs remaining  ########
+Epoch:80.0% Of 1/5, Loss:[0.05901055], Batch Acc:83.0%, Epoch Acc:56.00000000000001%
+########  7.179444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:80.5% Of 1/5, Loss:[0.0716149], Batch Acc:72.0%, Epoch Acc:56.00000000000001%
+########  7.135555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:81.0% Of 1/5, Loss:[0.05596742], Batch Acc:80.0%, Epoch Acc:56.00000000000001%
+########  7.163611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:81.5% Of 1/5, Loss:[0.04778418], Batch Acc:87.0%, Epoch Acc:56.00000000000001%
+########  7.151944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:82.0% Of 1/5, Loss:[0.08201956], Batch Acc:72.0%, Epoch Acc:56.99999999999999%
+########  7.094444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:82.5% Of 1/5, Loss:[0.06123989], Batch Acc:83.0%, Epoch Acc:56.99999999999999%
+########  7.088888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:83.0% Of 1/5, Loss:[0.05907408], Batch Acc:85.0%, Epoch Acc:56.99999999999999%
+########  7.1175Hrs 0Mins 0Secs remaining  ########
+Epoch:83.5% Of 1/5, Loss:[0.08430589], Batch Acc:76.0%, Epoch Acc:56.99999999999999%
+########  7.079166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:84.0% Of 1/5, Loss:[0.04887], Batch Acc:87.0%, Epoch Acc:56.99999999999999%
+########  7.110833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:84.5% Of 1/5, Loss:[0.06077929], Batch Acc:78.0%, Epoch Acc:56.99999999999999%
+########  7.082222222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:85.0% Of 1/5, Loss:[0.06124615], Batch Acc:80.0%, Epoch Acc:56.99999999999999%
+########  7.101111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:85.5% Of 1/5, Loss:[0.06264485], Batch Acc:83.0%, Epoch Acc:57.99999999999999%
+########  7.055555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:86.0% Of 1/5, Loss:[0.069359], Batch Acc:78.0%, Epoch Acc:57.99999999999999%
+########  7.076388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:86.5% Of 1/5, Loss:[0.08246377], Batch Acc:77.0%, Epoch Acc:57.99999999999999%
+########  7.056388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:87.0% Of 1/5, Loss:[0.04719242], Batch Acc:82.0%, Epoch Acc:57.99999999999999%
+########  7.023055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:87.5% Of 1/5, Loss:[0.07273482], Batch Acc:82.0%, Epoch Acc:57.99999999999999%
+########  7.036944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:88.0% Of 1/5, Loss:[0.07399984], Batch Acc:81.0%, Epoch Acc:57.99999999999999%
+########  7.088611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:88.5% Of 1/5, Loss:[0.06951842], Batch Acc:77.0%, Epoch Acc:57.99999999999999%
+########  7.015833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:89.0% Of 1/5, Loss:[0.07937413], Batch Acc:79.0%, Epoch Acc:57.99999999999999%
+########  6.9816666666666665Hrs 0Mins 0Secs remaining  ########
+Epoch:89.5% Of 1/5, Loss:[0.07254182], Batch Acc:80.0%, Epoch Acc:59.0%
+########  7.060277777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:90.0% Of 1/5, Loss:[0.06957322], Batch Acc:84.0%, Epoch Acc:59.0%
+########  7.003611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:90.5% Of 1/5, Loss:[0.06018833], Batch Acc:78.0%, Epoch Acc:59.0%
+########  6.982222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:91.0% Of 1/5, Loss:[0.06548275], Batch Acc:80.0%, Epoch Acc:59.0%
+########  6.973611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:91.5% Of 1/5, Loss:[0.06859935], Batch Acc:81.0%, Epoch Acc:59.0%
+########  6.933055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:92.0% Of 1/5, Loss:[0.06362611], Batch Acc:80.0%, Epoch Acc:59.0%
+########  6.9222222222222225Hrs 0Mins 0Secs remaining  ########
+Epoch:92.5% Of 1/5, Loss:[0.07094139], Batch Acc:78.0%, Epoch Acc:59.0%
+########  6.909722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:93.0% Of 1/5, Loss:[0.05148637], Batch Acc:83.0%, Epoch Acc:59.0%
+########  6.928333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:93.5% Of 1/5, Loss:[0.07765264], Batch Acc:83.0%, Epoch Acc:60.0%
+########  6.945555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:94.0% Of 1/5, Loss:[0.05756363], Batch Acc:84.0%, Epoch Acc:60.0%
+########  6.920833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:94.5% Of 1/5, Loss:[0.07749674], Batch Acc:79.0%, Epoch Acc:60.0%
+########  6.868888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:95.0% Of 1/5, Loss:[0.04856806], Batch Acc:85.0%, Epoch Acc:60.0%
+########  6.887222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:95.5% Of 1/5, Loss:[0.07293338], Batch Acc:81.0%, Epoch Acc:60.0%
+########  6.827222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:96.0% Of 1/5, Loss:[0.0412162], Batch Acc:87.0%, Epoch Acc:60.0%
+########  6.886111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:96.5% Of 1/5, Loss:[0.06211669], Batch Acc:85.0%, Epoch Acc:60.0%
+########  6.821944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:97.0% Of 1/5, Loss:[0.03257481], Batch Acc:90.0%, Epoch Acc:60.0%
+########  6.8438888888888885Hrs 0Mins 0Secs remaining  ########
+Epoch:97.5% Of 1/5, Loss:[0.07256623], Batch Acc:81.0%, Epoch Acc:61.0%
+########  6.8277777777777775Hrs 0Mins 0Secs remaining  ########
+Epoch:98.0% Of 1/5, Loss:[0.04829447], Batch Acc:87.0%, Epoch Acc:61.0%
+########  6.812222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:98.5% Of 1/5, Loss:[0.06783392], Batch Acc:80.0%, Epoch Acc:61.0%
+########  6.841666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:99.0% Of 1/5, Loss:[0.07148944], Batch Acc:79.0%, Epoch Acc:61.0%
+########  6.767777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:99.5% Of 1/5, Loss:[0.06363621], Batch Acc:86.0%, Epoch Acc:61.0%
+########  6.848888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:100.0% Of 1/5, Loss:[0.07807806], Batch Acc:75.0%, Epoch Acc:61.0%
+########  6.823055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:0.5% Of 2/5, Loss:[0.05396524], Batch Acc:82.0%, Epoch Acc:82.0%
+########  6.781666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:1.0% Of 2/5, Loss:[0.05453521], Batch Acc:86.0%, Epoch Acc:84.0%
+########  6.808611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:1.5% Of 2/5, Loss:[0.05666466], Batch Acc:83.0%, Epoch Acc:84.0%
+########  6.7444444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:2.0% Of 2/5, Loss:[0.04006733], Batch Acc:87.0%, Epoch Acc:84.0%
+########  6.704722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:2.5% Of 2/5, Loss:[0.04174386], Batch Acc:88.0%, Epoch Acc:85.0%
+########  6.743055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:3.0% Of 2/5, Loss:[0.06412935], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.8036111111111115Hrs 0Mins 0Secs remaining  ########
+Epoch:3.5% Of 2/5, Loss:[0.04547424], Batch Acc:83.0%, Epoch Acc:85.0%
+########  6.746111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:4.0% Of 2/5, Loss:[0.05178762], Batch Acc:82.0%, Epoch Acc:84.0%
+########  6.770277777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:4.5% Of 2/5, Loss:[0.04638705], Batch Acc:87.0%, Epoch Acc:85.0%
+########  6.671111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:5.0% Of 2/5, Loss:[0.0633369], Batch Acc:87.0%, Epoch Acc:85.0%
+########  6.7058333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:5.5% Of 2/5, Loss:[0.04453758], Batch Acc:89.0%, Epoch Acc:85.0%
+########  6.708333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:6.0% Of 2/5, Loss:[0.04868331], Batch Acc:88.0%, Epoch Acc:86.0%
+########  6.729166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:6.5% Of 2/5, Loss:[0.05463739], Batch Acc:80.0%, Epoch Acc:85.0%
+########  6.716944444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:7.0% Of 2/5, Loss:[0.04517203], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.69Hrs 0Mins 0Secs remaining  ########
+Epoch:7.5% Of 2/5, Loss:[0.0450826], Batch Acc:87.0%, Epoch Acc:85.0%
+########  6.6525Hrs 0Mins 0Secs remaining  ########
+Epoch:8.0% Of 2/5, Loss:[0.04840376], Batch Acc:89.0%, Epoch Acc:86.0%
+########  6.677222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:8.5% Of 2/5, Loss:[0.05317421], Batch Acc:80.0%, Epoch Acc:85.0%
+########  6.635555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:9.0% Of 2/5, Loss:[0.06437619], Batch Acc:81.0%, Epoch Acc:85.0%
+########  6.682222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:9.5% Of 2/5, Loss:[0.02446711], Batch Acc:92.0%, Epoch Acc:85.0%
+########  6.683888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:10.0% Of 2/5, Loss:[0.04191403], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.674166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:10.5% Of 2/5, Loss:[0.06855512], Batch Acc:80.0%, Epoch Acc:85.0%
+########  6.674722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:11.0% Of 2/5, Loss:[0.03895651], Batch Acc:89.0%, Epoch Acc:85.0%
+########  6.643055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:11.5% Of 2/5, Loss:[0.05582014], Batch Acc:83.0%, Epoch Acc:85.0%
+########  6.578888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:12.0% Of 2/5, Loss:[0.04584904], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.614166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:12.5% Of 2/5, Loss:[0.05755622], Batch Acc:82.0%, Epoch Acc:85.0%
+########  6.584722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:13.0% Of 2/5, Loss:[0.03752775], Batch Acc:88.0%, Epoch Acc:85.0%
+########  6.581666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:13.5% Of 2/5, Loss:[0.03391809], Batch Acc:88.0%, Epoch Acc:85.0%
+########  6.607222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:14.0% Of 2/5, Loss:[0.06303405], Batch Acc:78.0%, Epoch Acc:85.0%
+########  6.592222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:14.5% Of 2/5, Loss:[0.06691949], Batch Acc:84.0%, Epoch Acc:85.0%
+########  6.623611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:15.0% Of 2/5, Loss:[0.07032216], Batch Acc:78.0%, Epoch Acc:85.0%
+########  6.510555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:15.5% Of 2/5, Loss:[0.0553524], Batch Acc:81.0%, Epoch Acc:85.0%
+########  6.546666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:16.0% Of 2/5, Loss:[0.04964123], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.536944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:16.5% Of 2/5, Loss:[0.05377564], Batch Acc:87.0%, Epoch Acc:85.0%
+########  6.513333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:17.0% Of 2/5, Loss:[0.04927619], Batch Acc:82.0%, Epoch Acc:85.0%
+########  6.516388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:17.5% Of 2/5, Loss:[0.05237201], Batch Acc:87.0%, Epoch Acc:85.0%
+########  6.493055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:18.0% Of 2/5, Loss:[0.04326941], Batch Acc:88.0%, Epoch Acc:85.0%
+########  6.496111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:18.5% Of 2/5, Loss:[0.044103], Batch Acc:84.0%, Epoch Acc:85.0%
+########  6.501111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:19.0% Of 2/5, Loss:[0.06243191], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.457222222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:19.5% Of 2/5, Loss:[0.07802111], Batch Acc:79.0%, Epoch Acc:85.0%
+########  6.4622222222222225Hrs 0Mins 0Secs remaining  ########
+Epoch:20.0% Of 2/5, Loss:[0.06449627], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.444166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:20.5% Of 2/5, Loss:[0.04209033], Batch Acc:88.0%, Epoch Acc:85.0%
+########  6.405833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:21.0% Of 2/5, Loss:[0.05502189], Batch Acc:79.0%, Epoch Acc:85.0%
+########  6.440277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:21.5% Of 2/5, Loss:[0.04568956], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.433055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:22.0% Of 2/5, Loss:[0.03953456], Batch Acc:87.0%, Epoch Acc:85.0%
+########  6.421388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:22.5% Of 2/5, Loss:[0.05424456], Batch Acc:88.0%, Epoch Acc:85.0%
+########  6.372222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:23.0% Of 2/5, Loss:[0.05212941], Batch Acc:91.0%, Epoch Acc:85.0%
+########  6.3925Hrs 0Mins 0Secs remaining  ########
+Epoch:23.5% Of 2/5, Loss:[0.05889512], Batch Acc:81.0%, Epoch Acc:85.0%
+########  6.423333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:24.0% Of 2/5, Loss:[0.04819581], Batch Acc:86.0%, Epoch Acc:85.0%
+########  6.365277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:24.5% Of 2/5, Loss:[0.0457881], Batch Acc:88.0%, Epoch Acc:85.0%
+########  6.4061111111111115Hrs 0Mins 0Secs remaining  ########
+Epoch:25.0% Of 2/5, Loss:[0.06393437], Batch Acc:83.0%, Epoch Acc:85.0%
+########  6.379722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:25.5% Of 2/5, Loss:[0.04346889], Batch Acc:84.0%, Epoch Acc:85.0%
+########  6.3125Hrs 0Mins 0Secs remaining  ########
+Epoch:26.0% Of 2/5, Loss:[0.0335979], Batch Acc:91.0%, Epoch Acc:85.0%
+########  6.298055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:26.5% Of 2/5, Loss:[0.06431649], Batch Acc:82.0%, Epoch Acc:85.0%
+########  6.33Hrs 0Mins 0Secs remaining  ########
+Epoch:27.0% Of 2/5, Loss:[0.04034623], Batch Acc:89.0%, Epoch Acc:85.0%
+########  6.3469444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:27.5% Of 2/5, Loss:[0.04903639], Batch Acc:87.0%, Epoch Acc:85.0%
+########  6.328333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:28.0% Of 2/5, Loss:[0.05208269], Batch Acc:86.0%, Epoch Acc:85.0%
+########  6.351111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:28.5% Of 2/5, Loss:[0.05674559], Batch Acc:82.0%, Epoch Acc:85.0%
+########  6.359444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:29.0% Of 2/5, Loss:[0.04451874], Batch Acc:85.0%, Epoch Acc:85.0%
+########  6.351666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:29.5% Of 2/5, Loss:[0.0441308], Batch Acc:90.0%, Epoch Acc:85.0%
+########  6.279444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:30.0% Of 2/5, Loss:[0.04996228], Batch Acc:82.0%, Epoch Acc:85.0%
+########  6.271388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:30.5% Of 2/5, Loss:[0.05050117], Batch Acc:80.0%, Epoch Acc:85.0%
+########  6.296944444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:31.0% Of 2/5, Loss:[0.04413213], Batch Acc:89.0%, Epoch Acc:85.0%
+########  6.293333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:31.5% Of 2/5, Loss:[0.04245443], Batch Acc:90.0%, Epoch Acc:85.0%
+########  6.279722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:32.0% Of 2/5, Loss:[0.03664137], Batch Acc:93.0%, Epoch Acc:85.0%
+########  6.254444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:32.5% Of 2/5, Loss:[0.05086002], Batch Acc:78.0%, Epoch Acc:85.0%
+########  6.241944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:33.0% Of 2/5, Loss:[0.02632406], Batch Acc:92.0%, Epoch Acc:85.0%
+########  6.226388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:33.5% Of 2/5, Loss:[0.04868482], Batch Acc:86.0%, Epoch Acc:85.0%
+########  6.277222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:34.0% Of 2/5, Loss:[0.04848286], Batch Acc:81.0%, Epoch Acc:85.0%
+########  6.2475Hrs 0Mins 0Secs remaining  ########
+Epoch:34.5% Of 2/5, Loss:[0.0377212], Batch Acc:86.0%, Epoch Acc:85.0%
+########  6.217222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:35.0% Of 2/5, Loss:[0.02393344], Batch Acc:93.0%, Epoch Acc:85.0%
+########  6.213888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:35.5% Of 2/5, Loss:[0.03974808], Batch Acc:87.0%, Epoch Acc:85.0%
+########  6.19Hrs 0Mins 0Secs remaining  ########
+Epoch:36.0% Of 2/5, Loss:[0.03490855], Batch Acc:91.0%, Epoch Acc:85.0%
+########  6.203333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:36.5% Of 2/5, Loss:[0.03893315], Batch Acc:86.0%, Epoch Acc:85.0%
+########  6.132777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:37.0% Of 2/5, Loss:[0.04075856], Batch Acc:81.0%, Epoch Acc:85.0%
+########  6.181388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:37.5% Of 2/5, Loss:[0.02062107], Batch Acc:94.0%, Epoch Acc:85.0%
+########  6.192222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:38.0% Of 2/5, Loss:[0.06826911], Batch Acc:79.0%, Epoch Acc:85.0%
+########  6.16Hrs 0Mins 0Secs remaining  ########
+Epoch:38.5% Of 2/5, Loss:[0.04564392], Batch Acc:92.0%, Epoch Acc:85.0%
+########  6.165555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:39.0% Of 2/5, Loss:[0.06499551], Batch Acc:80.0%, Epoch Acc:85.0%
+########  6.141666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:39.5% Of 2/5, Loss:[0.03951965], Batch Acc:89.0%, Epoch Acc:85.0%
+########  6.073888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:40.0% Of 2/5, Loss:[0.03588204], Batch Acc:89.0%, Epoch Acc:85.0%
+########  6.116388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:40.5% Of 2/5, Loss:[0.03626242], Batch Acc:92.0%, Epoch Acc:86.0%
+########  6.091111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:41.0% Of 2/5, Loss:[0.04080192], Batch Acc:86.0%, Epoch Acc:86.0%
+########  6.114722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:41.5% Of 2/5, Loss:[0.04878868], Batch Acc:86.0%, Epoch Acc:86.0%
+########  6.113888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:42.0% Of 2/5, Loss:[0.02950539], Batch Acc:90.0%, Epoch Acc:86.0%
+########  6.066388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:42.5% Of 2/5, Loss:[0.03857782], Batch Acc:90.0%, Epoch Acc:86.0%
+########  6.093333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:43.0% Of 2/5, Loss:[0.05419703], Batch Acc:86.0%, Epoch Acc:86.0%
+########  6.050277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:43.5% Of 2/5, Loss:[0.03903679], Batch Acc:87.0%, Epoch Acc:86.0%
+########  6.041666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:44.0% Of 2/5, Loss:[0.02915732], Batch Acc:91.0%, Epoch Acc:86.0%
+########  6.065277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:44.5% Of 2/5, Loss:[0.0537558], Batch Acc:84.0%, Epoch Acc:86.0%
+########  6.025555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:45.0% Of 2/5, Loss:[0.03825355], Batch Acc:89.0%, Epoch Acc:86.0%
+########  6.0088888888888885Hrs 0Mins 0Secs remaining  ########
+Epoch:45.5% Of 2/5, Loss:[0.04431647], Batch Acc:89.0%, Epoch Acc:86.0%
+########  6.045277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:46.0% Of 2/5, Loss:[0.04118136], Batch Acc:84.0%, Epoch Acc:86.0%
+########  6.041388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:46.5% Of 2/5, Loss:[0.03351146], Batch Acc:89.0%, Epoch Acc:86.0%
+########  5.993611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:47.0% Of 2/5, Loss:[0.04147861], Batch Acc:90.0%, Epoch Acc:86.0%
+########  5.978055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:47.5% Of 2/5, Loss:[0.04224528], Batch Acc:89.0%, Epoch Acc:86.0%
+########  5.971666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:48.0% Of 2/5, Loss:[0.02633977], Batch Acc:90.0%, Epoch Acc:86.0%
+########  5.986666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:48.5% Of 2/5, Loss:[0.05100573], Batch Acc:87.0%, Epoch Acc:86.0%
+########  5.970555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:49.0% Of 2/5, Loss:[0.03814789], Batch Acc:88.0%, Epoch Acc:86.0%
+########  5.954722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:49.5% Of 2/5, Loss:[0.0488558], Batch Acc:88.0%, Epoch Acc:86.0%
+########  5.949722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:50.0% Of 2/5, Loss:[0.032644], Batch Acc:87.0%, Epoch Acc:86.0%
+########  5.9475Hrs 0Mins 0Secs remaining  ########
+Epoch:50.5% Of 2/5, Loss:[0.04478509], Batch Acc:88.0%, Epoch Acc:86.0%
+########  5.948888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:51.0% Of 2/5, Loss:[0.04559639], Batch Acc:86.0%, Epoch Acc:86.0%
+########  5.898055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:51.5% Of 2/5, Loss:[0.02792814], Batch Acc:94.0%, Epoch Acc:86.0%
+########  5.943888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:52.0% Of 2/5, Loss:[0.05026368], Batch Acc:88.0%, Epoch Acc:86.0%
+########  5.845833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:52.5% Of 2/5, Loss:[0.05004355], Batch Acc:87.0%, Epoch Acc:86.0%
+########  5.898888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:53.0% Of 2/5, Loss:[0.03498366], Batch Acc:87.0%, Epoch Acc:86.0%
+########  5.883055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:53.5% Of 2/5, Loss:[0.0584461], Batch Acc:82.0%, Epoch Acc:86.0%
+########  5.900277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:54.0% Of 2/5, Loss:[0.03472203], Batch Acc:90.0%, Epoch Acc:86.0%
+########  5.8405555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:54.5% Of 2/5, Loss:[0.04949101], Batch Acc:85.0%, Epoch Acc:86.0%
+########  5.855555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:55.0% Of 2/5, Loss:[0.03152066], Batch Acc:88.0%, Epoch Acc:86.0%
+########  5.853888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:55.5% Of 2/5, Loss:[0.04433422], Batch Acc:87.0%, Epoch Acc:86.0%
+########  5.872777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:56.0% Of 2/5, Loss:[0.04900576], Batch Acc:85.0%, Epoch Acc:86.0%
+########  5.853888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:56.5% Of 2/5, Loss:[0.06158691], Batch Acc:86.0%, Epoch Acc:86.0%
+########  5.85Hrs 0Mins 0Secs remaining  ########
+Epoch:57.0% Of 2/5, Loss:[0.05811476], Batch Acc:86.0%, Epoch Acc:86.0%
+########  5.8180555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:57.5% Of 2/5, Loss:[0.03295133], Batch Acc:89.0%, Epoch Acc:86.0%
+########  5.823611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:58.0% Of 2/5, Loss:[0.0516561], Batch Acc:83.0%, Epoch Acc:86.0%
+########  5.855833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:58.5% Of 2/5, Loss:[0.04713521], Batch Acc:85.0%, Epoch Acc:86.0%
+########  5.817777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:59.0% Of 2/5, Loss:[0.04890282], Batch Acc:86.0%, Epoch Acc:86.0%
+########  5.825833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:59.5% Of 2/5, Loss:[0.03873251], Batch Acc:90.0%, Epoch Acc:86.0%
+########  5.7683333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:60.0% Of 2/5, Loss:[0.03962858], Batch Acc:87.0%, Epoch Acc:86.0%
+########  5.776666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:60.5% Of 2/5, Loss:[0.03067772], Batch Acc:90.0%, Epoch Acc:86.0%
+########  5.744722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:61.0% Of 2/5, Loss:[0.01951417], Batch Acc:93.0%, Epoch Acc:86.0%
+########  5.769722222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:61.5% Of 2/5, Loss:[0.02931782], Batch Acc:91.0%, Epoch Acc:86.0%
+########  5.808888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:62.0% Of 2/5, Loss:[0.02489587], Batch Acc:91.0%, Epoch Acc:86.0%
+########  5.7125Hrs 0Mins 0Secs remaining  ########
+Epoch:62.5% Of 2/5, Loss:[0.02765523], Batch Acc:89.0%, Epoch Acc:86.0%
+########  5.7555555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:63.0% Of 2/5, Loss:[0.03153512], Batch Acc:91.0%, Epoch Acc:86.0%
+########  5.738333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:63.5% Of 2/5, Loss:[0.01895661], Batch Acc:96.0%, Epoch Acc:86.0%
+########  5.705555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:64.0% Of 2/5, Loss:[0.03672444], Batch Acc:90.0%, Epoch Acc:86.0%
+########  5.679444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:64.5% Of 2/5, Loss:[0.02411864], Batch Acc:92.0%, Epoch Acc:86.0%
+########  5.685277777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:65.0% Of 2/5, Loss:[0.02021676], Batch Acc:92.0%, Epoch Acc:87.0%
+########  5.717222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:65.5% Of 2/5, Loss:[0.04752541], Batch Acc:84.0%, Epoch Acc:87.0%
+########  5.684166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:66.0% Of 2/5, Loss:[0.03622894], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.680833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:66.5% Of 2/5, Loss:[0.05973175], Batch Acc:85.0%, Epoch Acc:87.0%
+########  5.701388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:67.0% Of 2/5, Loss:[0.03401367], Batch Acc:90.0%, Epoch Acc:87.0%
+########  5.679444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:67.5% Of 2/5, Loss:[0.03116347], Batch Acc:89.0%, Epoch Acc:87.0%
+########  5.618611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:68.0% Of 2/5, Loss:[0.03889766], Batch Acc:89.0%, Epoch Acc:87.0%
+########  5.621944444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:68.5% Of 2/5, Loss:[0.03591959], Batch Acc:90.0%, Epoch Acc:87.0%
+########  5.611944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:69.0% Of 2/5, Loss:[0.04638205], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.638333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:69.5% Of 2/5, Loss:[0.04849492], Batch Acc:85.0%, Epoch Acc:87.0%
+########  5.621111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:70.0% Of 2/5, Loss:[0.03462756], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.5536111111111115Hrs 0Mins 0Secs remaining  ########
+Epoch:70.5% Of 2/5, Loss:[0.02312812], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.6Hrs 0Mins 0Secs remaining  ########
+Epoch:71.0% Of 2/5, Loss:[0.03368225], Batch Acc:89.0%, Epoch Acc:87.0%
+########  5.615Hrs 0Mins 0Secs remaining  ########
+Epoch:71.5% Of 2/5, Loss:[0.02557605], Batch Acc:93.0%, Epoch Acc:87.0%
+########  5.623888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:72.0% Of 2/5, Loss:[0.05347369], Batch Acc:86.0%, Epoch Acc:87.0%
+########  5.5675Hrs 0Mins 0Secs remaining  ########
+Epoch:72.5% Of 2/5, Loss:[0.03859864], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.560277777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:73.0% Of 2/5, Loss:[0.03862359], Batch Acc:92.0%, Epoch Acc:87.0%
+########  5.55Hrs 0Mins 0Secs remaining  ########
+Epoch:73.5% Of 2/5, Loss:[0.02475565], Batch Acc:93.0%, Epoch Acc:87.0%
+########  5.599444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:74.0% Of 2/5, Loss:[0.03680791], Batch Acc:90.0%, Epoch Acc:87.0%
+########  5.538888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:74.5% Of 2/5, Loss:[0.04438823], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.521111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:75.0% Of 2/5, Loss:[0.04341442], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.5175Hrs 0Mins 0Secs remaining  ########
+Epoch:75.5% Of 2/5, Loss:[0.02391243], Batch Acc:92.0%, Epoch Acc:87.0%
+########  5.518611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:76.0% Of 2/5, Loss:[0.06957439], Batch Acc:84.0%, Epoch Acc:87.0%
+########  5.5216666666666665Hrs 0Mins 0Secs remaining  ########
+Epoch:76.5% Of 2/5, Loss:[0.04018162], Batch Acc:89.0%, Epoch Acc:87.0%
+########  5.533055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:77.0% Of 2/5, Loss:[0.04034635], Batch Acc:84.0%, Epoch Acc:87.0%
+########  5.509722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:77.5% Of 2/5, Loss:[0.03759716], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.495555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:78.0% Of 2/5, Loss:[0.03740925], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.489722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:78.5% Of 2/5, Loss:[0.01815079], Batch Acc:96.0%, Epoch Acc:87.0%
+########  5.489722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:79.0% Of 2/5, Loss:[0.04045549], Batch Acc:84.0%, Epoch Acc:87.0%
+########  5.431666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:79.5% Of 2/5, Loss:[0.03044524], Batch Acc:92.0%, Epoch Acc:87.0%
+########  5.4686111111111115Hrs 0Mins 0Secs remaining  ########
+Epoch:80.0% Of 2/5, Loss:[0.04813986], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.4686111111111115Hrs 0Mins 0Secs remaining  ########
+Epoch:80.5% Of 2/5, Loss:[0.04235201], Batch Acc:89.0%, Epoch Acc:87.0%
+########  5.423055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:81.0% Of 2/5, Loss:[0.05159888], Batch Acc:86.0%, Epoch Acc:87.0%
+########  5.383611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:81.5% Of 2/5, Loss:[0.0360706], Batch Acc:92.0%, Epoch Acc:87.0%
+########  5.361666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:82.0% Of 2/5, Loss:[0.05254613], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.381388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:82.5% Of 2/5, Loss:[0.0572094], Batch Acc:84.0%, Epoch Acc:87.0%
+########  5.413055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:83.0% Of 2/5, Loss:[0.07166656], Batch Acc:84.0%, Epoch Acc:87.0%
+########  5.3725Hrs 0Mins 0Secs remaining  ########
+Epoch:83.5% Of 2/5, Loss:[0.04365041], Batch Acc:86.0%, Epoch Acc:87.0%
+########  5.366666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:84.0% Of 2/5, Loss:[0.03782813], Batch Acc:90.0%, Epoch Acc:87.0%
+########  5.393888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:84.5% Of 2/5, Loss:[0.03641825], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.3875Hrs 0Mins 0Secs remaining  ########
+Epoch:85.0% Of 2/5, Loss:[0.03317756], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.384166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:85.5% Of 2/5, Loss:[0.03836013], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.321111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:86.0% Of 2/5, Loss:[0.04609229], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.312777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:86.5% Of 2/5, Loss:[0.02746697], Batch Acc:93.0%, Epoch Acc:87.0%
+########  5.331388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:87.0% Of 2/5, Loss:[0.01535536], Batch Acc:95.0%, Epoch Acc:87.0%
+########  5.2877777777777775Hrs 0Mins 0Secs remaining  ########
+Epoch:87.5% Of 2/5, Loss:[0.0340584], Batch Acc:93.0%, Epoch Acc:87.0%
+########  5.316944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:88.0% Of 2/5, Loss:[0.0188869], Batch Acc:94.0%, Epoch Acc:87.0%
+########  5.288611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:88.5% Of 2/5, Loss:[0.05793437], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.280833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:89.0% Of 2/5, Loss:[0.04497998], Batch Acc:83.0%, Epoch Acc:87.0%
+########  5.251666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:89.5% Of 2/5, Loss:[0.02027251], Batch Acc:92.0%, Epoch Acc:87.0%
+########  5.299166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:90.0% Of 2/5, Loss:[0.03217922], Batch Acc:91.0%, Epoch Acc:87.0%
+########  5.3244444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:90.5% Of 2/5, Loss:[0.03630365], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.261666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:91.0% Of 2/5, Loss:[0.03334762], Batch Acc:90.0%, Epoch Acc:87.0%
+########  5.293055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:91.5% Of 2/5, Loss:[0.02915853], Batch Acc:93.0%, Epoch Acc:87.0%
+########  5.240833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:92.0% Of 2/5, Loss:[0.02235748], Batch Acc:93.0%, Epoch Acc:87.0%
+########  5.240833333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:92.5% Of 2/5, Loss:[0.04009475], Batch Acc:84.0%, Epoch Acc:87.0%
+########  5.288333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:93.0% Of 2/5, Loss:[0.03961338], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.234166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:93.5% Of 2/5, Loss:[0.02797096], Batch Acc:94.0%, Epoch Acc:87.0%
+########  5.183055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:94.0% Of 2/5, Loss:[0.04902487], Batch Acc:85.0%, Epoch Acc:87.0%
+########  5.193888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:94.5% Of 2/5, Loss:[0.02946667], Batch Acc:91.0%, Epoch Acc:87.0%
+########  5.163055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:95.0% Of 2/5, Loss:[0.04174582], Batch Acc:93.0%, Epoch Acc:87.0%
+########  5.160277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:95.5% Of 2/5, Loss:[0.03131285], Batch Acc:90.0%, Epoch Acc:87.0%
+########  5.1825Hrs 0Mins 0Secs remaining  ########
+Epoch:96.0% Of 2/5, Loss:[0.03512904], Batch Acc:90.0%, Epoch Acc:87.0%
+########  5.151111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:96.5% Of 2/5, Loss:[0.04620266], Batch Acc:86.0%, Epoch Acc:87.0%
+########  5.173055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:97.0% Of 2/5, Loss:[0.03188697], Batch Acc:89.0%, Epoch Acc:87.0%
+########  5.148055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:97.5% Of 2/5, Loss:[0.0182846], Batch Acc:94.0%, Epoch Acc:87.0%
+########  5.150277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:98.0% Of 2/5, Loss:[0.02853285], Batch Acc:91.0%, Epoch Acc:87.0%
+########  5.138333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:98.5% Of 2/5, Loss:[0.04537147], Batch Acc:86.0%, Epoch Acc:87.0%
+########  5.124722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:99.0% Of 2/5, Loss:[0.04518315], Batch Acc:87.0%, Epoch Acc:87.0%
+########  5.103055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:99.5% Of 2/5, Loss:[0.01902608], Batch Acc:93.0%, Epoch Acc:87.0%
+########  5.1113888888888885Hrs 0Mins 0Secs remaining  ########
+Epoch:100.0% Of 2/5, Loss:[0.04280962], Batch Acc:88.0%, Epoch Acc:87.0%
+########  5.127777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:0.5% Of 3/5, Loss:[0.03032063], Batch Acc:92.0%, Epoch Acc:92.0%
+########  5.082222222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:1.0% Of 3/5, Loss:[0.0429253], Batch Acc:86.0%, Epoch Acc:89.0%
+########  5.088888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:1.5% Of 3/5, Loss:[0.06076905], Batch Acc:82.0%, Epoch Acc:87.0%
+########  5.119722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:2.0% Of 3/5, Loss:[0.03986121], Batch Acc:93.0%, Epoch Acc:88.0%
+########  5.0872222222222225Hrs 0Mins 0Secs remaining  ########
+Epoch:2.5% Of 3/5, Loss:[0.02673549], Batch Acc:94.0%, Epoch Acc:89.0%
+########  5.041944444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:3.0% Of 3/5, Loss:[0.03409037], Batch Acc:89.0%, Epoch Acc:89.0%
+########  5.046666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:3.5% Of 3/5, Loss:[0.02084449], Batch Acc:95.0%, Epoch Acc:90.0%
+########  5.026666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:4.0% Of 3/5, Loss:[0.03621719], Batch Acc:91.0%, Epoch Acc:90.0%
+########  5.002777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:4.5% Of 3/5, Loss:[0.0201145], Batch Acc:90.0%, Epoch Acc:90.0%
+########  4.993055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:5.0% Of 3/5, Loss:[0.0235841], Batch Acc:91.0%, Epoch Acc:90.0%
+########  5.0119444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:5.5% Of 3/5, Loss:[0.0566854], Batch Acc:84.0%, Epoch Acc:90.0%
+########  4.976388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:6.0% Of 3/5, Loss:[0.03099714], Batch Acc:92.0%, Epoch Acc:90.0%
+########  4.983055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:6.5% Of 3/5, Loss:[0.02020858], Batch Acc:95.0%, Epoch Acc:90.0%
+########  4.973333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:7.0% Of 3/5, Loss:[0.0277846], Batch Acc:89.0%, Epoch Acc:90.0%
+########  4.9686111111111115Hrs 0Mins 0Secs remaining  ########
+Epoch:7.5% Of 3/5, Loss:[0.06324214], Batch Acc:87.0%, Epoch Acc:90.0%
+########  4.979444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:8.0% Of 3/5, Loss:[0.02965889], Batch Acc:88.0%, Epoch Acc:90.0%
+########  4.95Hrs 0Mins 0Secs remaining  ########
+Epoch:8.5% Of 3/5, Loss:[0.03880065], Batch Acc:93.0%, Epoch Acc:90.0%
+########  4.943611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:9.0% Of 3/5, Loss:[0.01994688], Batch Acc:95.0%, Epoch Acc:90.0%
+########  4.955555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:9.5% Of 3/5, Loss:[0.02612077], Batch Acc:91.0%, Epoch Acc:90.0%
+########  4.934444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:10.0% Of 3/5, Loss:[0.02062294], Batch Acc:91.0%, Epoch Acc:90.0%
+########  4.931388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:10.5% Of 3/5, Loss:[0.04252585], Batch Acc:85.0%, Epoch Acc:90.0%
+########  4.937222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:11.0% Of 3/5, Loss:[0.02495993], Batch Acc:91.0%, Epoch Acc:90.0%
+########  4.899444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:11.5% Of 3/5, Loss:[0.02174725], Batch Acc:91.0%, Epoch Acc:90.0%
+########  4.92Hrs 0Mins 0Secs remaining  ########
+Epoch:12.0% Of 3/5, Loss:[0.02154026], Batch Acc:94.0%, Epoch Acc:90.0%
+########  4.911944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:12.5% Of 3/5, Loss:[0.05221339], Batch Acc:91.0%, Epoch Acc:90.0%
+########  4.879166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:13.0% Of 3/5, Loss:[0.03007405], Batch Acc:90.0%, Epoch Acc:90.0%
+########  4.9275Hrs 0Mins 0Secs remaining  ########
+Epoch:13.5% Of 3/5, Loss:[0.02308691], Batch Acc:89.0%, Epoch Acc:90.0%
+########  4.87Hrs 0Mins 0Secs remaining  ########
+Epoch:14.0% Of 3/5, Loss:[0.05796964], Batch Acc:87.0%, Epoch Acc:90.0%
+########  4.828888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:14.5% Of 3/5, Loss:[0.02173487], Batch Acc:94.0%, Epoch Acc:90.0%
+########  4.828333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:15.0% Of 3/5, Loss:[0.02939052], Batch Acc:90.0%, Epoch Acc:90.0%
+########  4.806111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:15.5% Of 3/5, Loss:[0.04300078], Batch Acc:88.0%, Epoch Acc:90.0%
+########  4.776666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:16.0% Of 3/5, Loss:[0.05476109], Batch Acc:88.0%, Epoch Acc:90.0%
+########  4.802777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:16.5% Of 3/5, Loss:[0.02454896], Batch Acc:94.0%, Epoch Acc:90.0%
+########  4.778888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:17.0% Of 3/5, Loss:[0.02360891], Batch Acc:92.0%, Epoch Acc:90.0%
+########  4.859444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:17.5% Of 3/5, Loss:[0.01916367], Batch Acc:94.0%, Epoch Acc:90.0%
+########  4.766944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:18.0% Of 3/5, Loss:[0.03323526], Batch Acc:90.0%, Epoch Acc:90.0%
+########  4.771111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:18.5% Of 3/5, Loss:[0.02701816], Batch Acc:92.0%, Epoch Acc:90.0%
+########  4.778611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:19.0% Of 3/5, Loss:[0.0296199], Batch Acc:91.0%, Epoch Acc:90.0%
+########  4.7508333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:19.5% Of 3/5, Loss:[0.0189547], Batch Acc:94.0%, Epoch Acc:91.0%
+########  4.751388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:20.0% Of 3/5, Loss:[0.03198279], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.739166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:20.5% Of 3/5, Loss:[0.05811457], Batch Acc:83.0%, Epoch Acc:90.0%
+########  4.739722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:21.0% Of 3/5, Loss:[0.02994299], Batch Acc:88.0%, Epoch Acc:90.0%
+########  4.722222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:21.5% Of 3/5, Loss:[0.0174362], Batch Acc:93.0%, Epoch Acc:90.0%
+########  4.720277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:22.0% Of 3/5, Loss:[0.03862181], Batch Acc:91.0%, Epoch Acc:90.0%
+########  4.708611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:22.5% Of 3/5, Loss:[0.02567042], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.683333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:23.0% Of 3/5, Loss:[0.02803047], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.681388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:23.5% Of 3/5, Loss:[0.0317649], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.720555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:24.0% Of 3/5, Loss:[0.05936077], Batch Acc:86.0%, Epoch Acc:91.0%
+########  4.6625Hrs 0Mins 0Secs remaining  ########
+Epoch:24.5% Of 3/5, Loss:[0.01335607], Batch Acc:94.0%, Epoch Acc:91.0%
+########  4.697222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:25.0% Of 3/5, Loss:[0.0238244], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.648611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:25.5% Of 3/5, Loss:[0.03567824], Batch Acc:88.0%, Epoch Acc:91.0%
+########  4.639722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:26.0% Of 3/5, Loss:[0.0358028], Batch Acc:87.0%, Epoch Acc:90.0%
+########  4.618888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:26.5% Of 3/5, Loss:[0.02403237], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.623888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:27.0% Of 3/5, Loss:[0.04239215], Batch Acc:90.0%, Epoch Acc:91.0%
+########  4.629166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:27.5% Of 3/5, Loss:[0.02039821], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.637222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:28.0% Of 3/5, Loss:[0.02113326], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.623611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:28.5% Of 3/5, Loss:[0.02021157], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.61Hrs 0Mins 0Secs remaining  ########
+Epoch:29.0% Of 3/5, Loss:[0.01085139], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.581388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:29.5% Of 3/5, Loss:[0.02250729], Batch Acc:94.0%, Epoch Acc:91.0%
+########  4.578333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:30.0% Of 3/5, Loss:[0.03664387], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.581944444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:30.5% Of 3/5, Loss:[0.03366574], Batch Acc:89.0%, Epoch Acc:91.0%
+########  4.555Hrs 0Mins 0Secs remaining  ########
+Epoch:31.0% Of 3/5, Loss:[0.0302505], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.5633333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:31.5% Of 3/5, Loss:[0.02666785], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.5377777777777775Hrs 0Mins 0Secs remaining  ########
+Epoch:32.0% Of 3/5, Loss:[0.02778534], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.5488888888888885Hrs 0Mins 0Secs remaining  ########
+Epoch:32.5% Of 3/5, Loss:[0.03458827], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.536666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:33.0% Of 3/5, Loss:[0.03715028], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.509166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:33.5% Of 3/5, Loss:[0.0236056], Batch Acc:94.0%, Epoch Acc:91.0%
+########  4.503055555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:34.0% Of 3/5, Loss:[0.05696975], Batch Acc:88.0%, Epoch Acc:91.0%
+########  4.494722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:34.5% Of 3/5, Loss:[0.05638791], Batch Acc:83.0%, Epoch Acc:91.0%
+########  4.490277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:35.0% Of 3/5, Loss:[0.04128244], Batch Acc:89.0%, Epoch Acc:91.0%
+########  4.485277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:35.5% Of 3/5, Loss:[0.0308713], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.465277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:36.0% Of 3/5, Loss:[0.01498197], Batch Acc:94.0%, Epoch Acc:91.0%
+########  4.497777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:36.5% Of 3/5, Loss:[0.03130926], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.458611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:37.0% Of 3/5, Loss:[0.02697158], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.455555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:37.5% Of 3/5, Loss:[0.02870202], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.422777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:38.0% Of 3/5, Loss:[0.03072198], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.401388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:38.5% Of 3/5, Loss:[0.0372554], Batch Acc:89.0%, Epoch Acc:91.0%
+########  4.424444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:39.0% Of 3/5, Loss:[0.03095857], Batch Acc:89.0%, Epoch Acc:91.0%
+########  4.395555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:39.5% Of 3/5, Loss:[0.01746866], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.3966666666666665Hrs 0Mins 0Secs remaining  ########
+Epoch:40.0% Of 3/5, Loss:[0.02767292], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.381111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:40.5% Of 3/5, Loss:[0.03014908], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.377222222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:41.0% Of 3/5, Loss:[0.03030731], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.386111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:41.5% Of 3/5, Loss:[0.05124407], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.358888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:42.0% Of 3/5, Loss:[0.03221543], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.3825Hrs 0Mins 0Secs remaining  ########
+Epoch:42.5% Of 3/5, Loss:[0.02642267], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.362222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:43.0% Of 3/5, Loss:[0.01815382], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.352777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:43.5% Of 3/5, Loss:[0.04644423], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.366666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:44.0% Of 3/5, Loss:[0.01303283], Batch Acc:94.0%, Epoch Acc:91.0%
+########  4.321944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:44.5% Of 3/5, Loss:[0.034887], Batch Acc:90.0%, Epoch Acc:91.0%
+########  4.3005555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:45.0% Of 3/5, Loss:[0.02523781], Batch Acc:90.0%, Epoch Acc:91.0%
+########  4.266111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:45.5% Of 3/5, Loss:[0.02273703], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.28Hrs 0Mins 0Secs remaining  ########
+Epoch:46.0% Of 3/5, Loss:[0.05129825], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.290277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:46.5% Of 3/5, Loss:[0.01625221], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.271111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:47.0% Of 3/5, Loss:[0.02383179], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.2625Hrs 0Mins 0Secs remaining  ########
+Epoch:47.5% Of 3/5, Loss:[0.02389962], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.2411111111111115Hrs 0Mins 0Secs remaining  ########
+Epoch:48.0% Of 3/5, Loss:[0.03155243], Batch Acc:88.0%, Epoch Acc:91.0%
+########  4.25Hrs 0Mins 0Secs remaining  ########
+Epoch:48.5% Of 3/5, Loss:[0.02556123], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.276111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:49.0% Of 3/5, Loss:[0.01842978], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.236111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:49.5% Of 3/5, Loss:[0.00888764], Batch Acc:98.0%, Epoch Acc:91.0%
+########  4.261666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:50.0% Of 3/5, Loss:[0.01290811], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.252777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:50.5% Of 3/5, Loss:[0.02482811], Batch Acc:94.0%, Epoch Acc:91.0%
+########  4.241944444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:51.0% Of 3/5, Loss:[0.04200719], Batch Acc:87.0%, Epoch Acc:91.0%
+########  4.164722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:51.5% Of 3/5, Loss:[0.01111964], Batch Acc:97.0%, Epoch Acc:91.0%
+########  4.204444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:52.0% Of 3/5, Loss:[0.03423111], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.1930555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:52.5% Of 3/5, Loss:[0.01686454], Batch Acc:94.0%, Epoch Acc:91.0%
+########  4.1738888888888885Hrs 0Mins 0Secs remaining  ########
+Epoch:53.0% Of 3/5, Loss:[0.04089697], Batch Acc:88.0%, Epoch Acc:91.0%
+########  4.148888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:53.5% Of 3/5, Loss:[0.03169276], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.159722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:54.0% Of 3/5, Loss:[0.03576538], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.172777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:54.5% Of 3/5, Loss:[0.02651933], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.1125Hrs 0Mins 0Secs remaining  ########
+Epoch:55.0% Of 3/5, Loss:[0.02605123], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.136111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:55.5% Of 3/5, Loss:[0.02911263], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.135Hrs 0Mins 0Secs remaining  ########
+Epoch:56.0% Of 3/5, Loss:[0.05176854], Batch Acc:88.0%, Epoch Acc:91.0%
+########  4.131666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:56.5% Of 3/5, Loss:[0.02583744], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.113888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:57.0% Of 3/5, Loss:[0.03347099], Batch Acc:91.0%, Epoch Acc:91.0%
+########  4.1025Hrs 0Mins 0Secs remaining  ########
+Epoch:57.5% Of 3/5, Loss:[0.01774266], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.104444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:58.0% Of 3/5, Loss:[0.02531122], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.094166666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:58.5% Of 3/5, Loss:[0.02098728], Batch Acc:95.0%, Epoch Acc:91.0%
+########  4.086944444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:59.0% Of 3/5, Loss:[0.03447028], Batch Acc:90.0%, Epoch Acc:91.0%
+########  4.128333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:59.5% Of 3/5, Loss:[0.0462875], Batch Acc:86.0%, Epoch Acc:91.0%
+########  4.066666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:60.0% Of 3/5, Loss:[0.03460092], Batch Acc:89.0%, Epoch Acc:91.0%
+########  4.085277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:60.5% Of 3/5, Loss:[0.02112157], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.063055555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:61.0% Of 3/5, Loss:[0.01015539], Batch Acc:98.0%, Epoch Acc:91.0%
+########  4.033888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:61.5% Of 3/5, Loss:[0.0253719], Batch Acc:92.0%, Epoch Acc:91.0%
+########  4.0313888888888885Hrs 0Mins 0Secs remaining  ########
+Epoch:62.0% Of 3/5, Loss:[0.03998442], Batch Acc:93.0%, Epoch Acc:91.0%
+########  4.016388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:62.5% Of 3/5, Loss:[0.02254228], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.9963888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:63.0% Of 3/5, Loss:[0.0449248], Batch Acc:86.0%, Epoch Acc:91.0%
+########  3.986666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:63.5% Of 3/5, Loss:[0.03746679], Batch Acc:87.0%, Epoch Acc:91.0%
+########  3.9902777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:64.0% Of 3/5, Loss:[0.04405591], Batch Acc:89.0%, Epoch Acc:91.0%
+########  3.986111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:64.5% Of 3/5, Loss:[0.03134632], Batch Acc:93.0%, Epoch Acc:91.0%
+########  3.99Hrs 0Mins 0Secs remaining  ########
+Epoch:65.0% Of 3/5, Loss:[0.02249306], Batch Acc:93.0%, Epoch Acc:91.0%
+########  3.951111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:65.5% Of 3/5, Loss:[0.04016355], Batch Acc:92.0%, Epoch Acc:91.0%
+########  3.9455555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:66.0% Of 3/5, Loss:[0.01994733], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.9169444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:66.5% Of 3/5, Loss:[0.02630577], Batch Acc:88.0%, Epoch Acc:91.0%
+########  3.955Hrs 0Mins 0Secs remaining  ########
+Epoch:67.0% Of 3/5, Loss:[0.019881], Batch Acc:93.0%, Epoch Acc:91.0%
+########  3.9594444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:67.5% Of 3/5, Loss:[0.03734746], Batch Acc:89.0%, Epoch Acc:91.0%
+########  3.9044444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:68.0% Of 3/5, Loss:[0.01871524], Batch Acc:93.0%, Epoch Acc:91.0%
+########  3.926388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:68.5% Of 3/5, Loss:[0.02677033], Batch Acc:90.0%, Epoch Acc:91.0%
+########  3.91Hrs 0Mins 0Secs remaining  ########
+Epoch:69.0% Of 3/5, Loss:[0.03210766], Batch Acc:90.0%, Epoch Acc:91.0%
+########  3.8958333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:69.5% Of 3/5, Loss:[0.02203829], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.883888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:70.0% Of 3/5, Loss:[0.01392556], Batch Acc:96.0%, Epoch Acc:91.0%
+########  3.865Hrs 0Mins 0Secs remaining  ########
+Epoch:70.5% Of 3/5, Loss:[0.04320145], Batch Acc:87.0%, Epoch Acc:91.0%
+########  3.8577777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:71.0% Of 3/5, Loss:[0.03108642], Batch Acc:91.0%, Epoch Acc:91.0%
+########  3.8394444444444447Hrs 0Mins 0Secs remaining  ########
+Epoch:71.5% Of 3/5, Loss:[0.03206727], Batch Acc:91.0%, Epoch Acc:91.0%
+########  3.861388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:72.0% Of 3/5, Loss:[0.03998009], Batch Acc:86.0%, Epoch Acc:91.0%
+########  3.8505555555555557Hrs 0Mins 0Secs remaining  ########
+Epoch:72.5% Of 3/5, Loss:[0.01395524], Batch Acc:96.0%, Epoch Acc:91.0%
+########  3.8569444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:73.0% Of 3/5, Loss:[0.01800299], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.818611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:73.5% Of 3/5, Loss:[0.02479257], Batch Acc:95.0%, Epoch Acc:91.0%
+########  3.823888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:74.0% Of 3/5, Loss:[0.02972904], Batch Acc:96.0%, Epoch Acc:91.0%
+########  3.828611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:74.5% Of 3/5, Loss:[0.02147885], Batch Acc:90.0%, Epoch Acc:91.0%
+########  3.82Hrs 0Mins 0Secs remaining  ########
+Epoch:75.0% Of 3/5, Loss:[0.02638095], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.8027777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:75.5% Of 3/5, Loss:[0.04214987], Batch Acc:91.0%, Epoch Acc:91.0%
+########  3.7794444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:76.0% Of 3/5, Loss:[0.02602475], Batch Acc:93.0%, Epoch Acc:91.0%
+########  3.772777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:76.5% Of 3/5, Loss:[0.0234515], Batch Acc:91.0%, Epoch Acc:91.0%
+########  3.7711111111111113Hrs 0Mins 0Secs remaining  ########
+Epoch:77.0% Of 3/5, Loss:[0.0173614], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.758888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:77.5% Of 3/5, Loss:[0.02699128], Batch Acc:90.0%, Epoch Acc:91.0%
+########  3.768611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:78.0% Of 3/5, Loss:[0.02437106], Batch Acc:92.0%, Epoch Acc:91.0%
+########  3.743333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:78.5% Of 3/5, Loss:[0.02088785], Batch Acc:93.0%, Epoch Acc:91.0%
+########  3.741388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:79.0% Of 3/5, Loss:[0.045369], Batch Acc:89.0%, Epoch Acc:91.0%
+########  3.7536111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:79.5% Of 3/5, Loss:[0.02344685], Batch Acc:92.0%, Epoch Acc:91.0%
+########  3.713888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:80.0% Of 3/5, Loss:[0.01057324], Batch Acc:95.0%, Epoch Acc:91.0%
+########  3.6894444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:80.5% Of 3/5, Loss:[0.02043806], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.7005555555555554Hrs 0Mins 0Secs remaining  ########
+Epoch:81.0% Of 3/5, Loss:[0.01803252], Batch Acc:96.0%, Epoch Acc:91.0%
+########  3.698611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:81.5% Of 3/5, Loss:[0.02581584], Batch Acc:90.0%, Epoch Acc:91.0%
+########  3.6858333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:82.0% Of 3/5, Loss:[0.01795207], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.720833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:82.5% Of 3/5, Loss:[0.03682636], Batch Acc:91.0%, Epoch Acc:91.0%
+########  3.6663888888888887Hrs 0Mins 0Secs remaining  ########
+Epoch:83.0% Of 3/5, Loss:[0.03611903], Batch Acc:87.0%, Epoch Acc:91.0%
+########  3.6638888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:83.5% Of 3/5, Loss:[0.0241462], Batch Acc:96.0%, Epoch Acc:91.0%
+########  3.6444444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:84.0% Of 3/5, Loss:[0.01654595], Batch Acc:94.0%, Epoch Acc:91.0%
+########  3.64Hrs 0Mins 0Secs remaining  ########
+Epoch:84.5% Of 3/5, Loss:[0.02197571], Batch Acc:95.0%, Epoch Acc:92.0%
+########  3.637777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:85.0% Of 3/5, Loss:[0.01741426], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.629166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:85.5% Of 3/5, Loss:[0.01970729], Batch Acc:94.0%, Epoch Acc:92.0%
+########  3.631111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:86.0% Of 3/5, Loss:[0.03218379], Batch Acc:89.0%, Epoch Acc:92.0%
+########  3.613611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:86.5% Of 3/5, Loss:[0.03229706], Batch Acc:91.0%, Epoch Acc:92.0%
+########  3.6119444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:87.0% Of 3/5, Loss:[0.02532581], Batch Acc:92.0%, Epoch Acc:92.0%
+########  3.5994444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:87.5% Of 3/5, Loss:[0.02638485], Batch Acc:91.0%, Epoch Acc:92.0%
+########  3.575277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:88.0% Of 3/5, Loss:[0.027452], Batch Acc:91.0%, Epoch Acc:92.0%
+########  3.56Hrs 0Mins 0Secs remaining  ########
+Epoch:88.5% Of 3/5, Loss:[0.02535002], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.540277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:89.0% Of 3/5, Loss:[0.02346536], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.5605555555555557Hrs 0Mins 0Secs remaining  ########
+Epoch:89.5% Of 3/5, Loss:[0.02281706], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.549166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:90.0% Of 3/5, Loss:[0.04459352], Batch Acc:87.0%, Epoch Acc:92.0%
+########  3.555277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:90.5% Of 3/5, Loss:[0.02490561], Batch Acc:95.0%, Epoch Acc:92.0%
+########  3.5444444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:91.0% Of 3/5, Loss:[0.02412838], Batch Acc:90.0%, Epoch Acc:92.0%
+########  3.5302777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:91.5% Of 3/5, Loss:[0.04817905], Batch Acc:88.0%, Epoch Acc:91.0%
+########  3.533333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:92.0% Of 3/5, Loss:[0.02463019], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.51Hrs 0Mins 0Secs remaining  ########
+Epoch:92.5% Of 3/5, Loss:[0.02451647], Batch Acc:94.0%, Epoch Acc:92.0%
+########  3.504722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:93.0% Of 3/5, Loss:[0.03557853], Batch Acc:90.0%, Epoch Acc:92.0%
+########  3.4891666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:93.5% Of 3/5, Loss:[0.03453816], Batch Acc:90.0%, Epoch Acc:92.0%
+########  3.4919444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:94.0% Of 3/5, Loss:[0.03446054], Batch Acc:90.0%, Epoch Acc:91.0%
+########  3.480277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:94.5% Of 3/5, Loss:[0.01537205], Batch Acc:96.0%, Epoch Acc:92.0%
+########  3.5652777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:95.0% Of 3/5, Loss:[0.02208339], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.495277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:95.5% Of 3/5, Loss:[0.02686111], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.488888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:96.0% Of 3/5, Loss:[0.05815464], Batch Acc:84.0%, Epoch Acc:91.0%
+########  3.466666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:96.5% Of 3/5, Loss:[0.02205395], Batch Acc:92.0%, Epoch Acc:91.0%
+########  3.4591666666666665Hrs 0Mins 0Secs remaining  ########
+Epoch:97.0% Of 3/5, Loss:[0.02625862], Batch Acc:91.0%, Epoch Acc:91.0%
+########  3.468611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:97.5% Of 3/5, Loss:[0.01091157], Batch Acc:97.0%, Epoch Acc:92.0%
+########  3.466111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:98.0% Of 3/5, Loss:[0.02730988], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.437777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:98.5% Of 3/5, Loss:[0.03684063], Batch Acc:87.0%, Epoch Acc:92.0%
+########  3.4283333333333332Hrs 0Mins 0Secs remaining  ########
+Epoch:99.0% Of 3/5, Loss:[0.02878358], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.4252777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:99.5% Of 3/5, Loss:[0.03084156], Batch Acc:93.0%, Epoch Acc:92.0%
+########  3.3777777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:100.0% Of 3/5, Loss:[0.02440909], Batch Acc:88.0%, Epoch Acc:92.0%
+########  3.424722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:0.5% Of 4/5, Loss:[0.03218291], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.3880555555555554Hrs 0Mins 0Secs remaining  ########
+Epoch:1.0% Of 4/5, Loss:[0.01551789], Batch Acc:94.0%, Epoch Acc:94.0%
+########  3.3930555555555557Hrs 0Mins 0Secs remaining  ########
+Epoch:1.5% Of 4/5, Loss:[0.01751408], Batch Acc:94.0%, Epoch Acc:94.0%
+########  3.3605555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:2.0% Of 4/5, Loss:[0.03191608], Batch Acc:92.0%, Epoch Acc:93.0%
+########  3.359166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:2.5% Of 4/5, Loss:[0.02451683], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.3594444444444442Hrs 0Mins 0Secs remaining  ########
+Epoch:3.0% Of 4/5, Loss:[0.01744636], Batch Acc:94.0%, Epoch Acc:93.0%
+########  3.3183333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:3.5% Of 4/5, Loss:[0.02727626], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.2983333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:4.0% Of 4/5, Loss:[0.02059056], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.325Hrs 0Mins 0Secs remaining  ########
+Epoch:4.5% Of 4/5, Loss:[0.02524732], Batch Acc:92.0%, Epoch Acc:93.0%
+########  3.295Hrs 0Mins 0Secs remaining  ########
+Epoch:5.0% Of 4/5, Loss:[0.0214542], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.319166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:5.5% Of 4/5, Loss:[0.0227589], Batch Acc:94.0%, Epoch Acc:93.0%
+########  3.297222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:6.0% Of 4/5, Loss:[0.0199868], Batch Acc:94.0%, Epoch Acc:93.0%
+########  3.3113888888888887Hrs 0Mins 0Secs remaining  ########
+Epoch:6.5% Of 4/5, Loss:[0.02479798], Batch Acc:92.0%, Epoch Acc:93.0%
+########  3.2536111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:7.0% Of 4/5, Loss:[0.01970378], Batch Acc:92.0%, Epoch Acc:93.0%
+########  3.2683333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:7.5% Of 4/5, Loss:[0.00935929], Batch Acc:96.0%, Epoch Acc:93.0%
+########  3.2327777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:8.0% Of 4/5, Loss:[0.01763702], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.2694444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:8.5% Of 4/5, Loss:[0.02080295], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.248611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:9.0% Of 4/5, Loss:[0.02525524], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.2333333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:9.5% Of 4/5, Loss:[0.02355447], Batch Acc:95.0%, Epoch Acc:93.0%
+########  3.2069444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:10.0% Of 4/5, Loss:[0.01241227], Batch Acc:96.0%, Epoch Acc:93.0%
+########  3.215Hrs 0Mins 0Secs remaining  ########
+Epoch:10.5% Of 4/5, Loss:[0.01037467], Batch Acc:96.0%, Epoch Acc:94.0%
+########  3.1775Hrs 0Mins 0Secs remaining  ########
+Epoch:11.0% Of 4/5, Loss:[0.03901075], Batch Acc:95.0%, Epoch Acc:94.0%
+########  3.201388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:11.5% Of 4/5, Loss:[0.0289085], Batch Acc:93.0%, Epoch Acc:94.0%
+########  3.2044444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:12.0% Of 4/5, Loss:[0.02139235], Batch Acc:95.0%, Epoch Acc:94.0%
+########  3.1691666666666665Hrs 0Mins 0Secs remaining  ########
+Epoch:12.5% Of 4/5, Loss:[0.02001921], Batch Acc:94.0%, Epoch Acc:94.0%
+########  3.176111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:13.0% Of 4/5, Loss:[0.02406511], Batch Acc:91.0%, Epoch Acc:94.0%
+########  3.1319444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:13.5% Of 4/5, Loss:[0.03175503], Batch Acc:93.0%, Epoch Acc:94.0%
+########  3.161111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:14.0% Of 4/5, Loss:[0.03255045], Batch Acc:92.0%, Epoch Acc:94.0%
+########  3.135Hrs 0Mins 0Secs remaining  ########
+Epoch:14.5% Of 4/5, Loss:[0.01668198], Batch Acc:94.0%, Epoch Acc:94.0%
+########  3.147777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:15.0% Of 4/5, Loss:[0.02762279], Batch Acc:94.0%, Epoch Acc:94.0%
+########  3.111666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:15.5% Of 4/5, Loss:[0.02113806], Batch Acc:91.0%, Epoch Acc:93.0%
+########  3.118333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:16.0% Of 4/5, Loss:[0.04456992], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.1083333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:16.5% Of 4/5, Loss:[0.02905999], Batch Acc:94.0%, Epoch Acc:93.0%
+########  3.116111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:17.0% Of 4/5, Loss:[0.0234569], Batch Acc:91.0%, Epoch Acc:93.0%
+########  3.102777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:17.5% Of 4/5, Loss:[0.02140476], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.0680555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:18.0% Of 4/5, Loss:[0.0282338], Batch Acc:92.0%, Epoch Acc:93.0%
+########  3.0855555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:18.5% Of 4/5, Loss:[0.01023019], Batch Acc:97.0%, Epoch Acc:93.0%
+########  3.055833333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:19.0% Of 4/5, Loss:[0.01937291], Batch Acc:94.0%, Epoch Acc:93.0%
+########  3.0741666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:19.5% Of 4/5, Loss:[0.02745377], Batch Acc:94.0%, Epoch Acc:93.0%
+########  3.0675Hrs 0Mins 0Secs remaining  ########
+Epoch:20.0% Of 4/5, Loss:[0.01372413], Batch Acc:97.0%, Epoch Acc:94.0%
+########  3.031388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:20.5% Of 4/5, Loss:[0.01459013], Batch Acc:93.0%, Epoch Acc:94.0%
+########  3.0408333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:21.0% Of 4/5, Loss:[0.01499642], Batch Acc:96.0%, Epoch Acc:94.0%
+########  3.0097222222222224Hrs 0Mins 0Secs remaining  ########
+Epoch:21.5% Of 4/5, Loss:[0.03013328], Batch Acc:88.0%, Epoch Acc:93.0%
+########  3.013611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:22.0% Of 4/5, Loss:[0.01620655], Batch Acc:95.0%, Epoch Acc:94.0%
+########  2.9769444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:22.5% Of 4/5, Loss:[0.03202502], Batch Acc:92.0%, Epoch Acc:93.0%
+########  3.0019444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:23.0% Of 4/5, Loss:[0.02049116], Batch Acc:96.0%, Epoch Acc:94.0%
+########  2.9858333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:23.5% Of 4/5, Loss:[0.02476705], Batch Acc:96.0%, Epoch Acc:94.0%
+########  2.9963888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:24.0% Of 4/5, Loss:[0.02932459], Batch Acc:91.0%, Epoch Acc:94.0%
+########  2.986666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:24.5% Of 4/5, Loss:[0.01919564], Batch Acc:94.0%, Epoch Acc:94.0%
+########  2.96Hrs 0Mins 0Secs remaining  ########
+Epoch:25.0% Of 4/5, Loss:[0.03430068], Batch Acc:87.0%, Epoch Acc:93.0%
+########  2.955Hrs 0Mins 0Secs remaining  ########
+Epoch:25.5% Of 4/5, Loss:[0.03200947], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.9516666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:26.0% Of 4/5, Loss:[0.04631216], Batch Acc:85.0%, Epoch Acc:93.0%
+########  2.933333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:26.5% Of 4/5, Loss:[0.03750152], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.9233333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:27.0% Of 4/5, Loss:[0.03044601], Batch Acc:87.0%, Epoch Acc:93.0%
+########  2.925Hrs 0Mins 0Secs remaining  ########
+Epoch:27.5% Of 4/5, Loss:[0.0296358], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.9305555555555554Hrs 0Mins 0Secs remaining  ########
+Epoch:28.0% Of 4/5, Loss:[0.02544389], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.9066666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:28.5% Of 4/5, Loss:[0.02339053], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.8786111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:29.0% Of 4/5, Loss:[0.04166306], Batch Acc:86.0%, Epoch Acc:93.0%
+########  2.8758333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:29.5% Of 4/5, Loss:[0.03457059], Batch Acc:88.0%, Epoch Acc:93.0%
+########  2.879166666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:30.0% Of 4/5, Loss:[0.0169697], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.8777777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:30.5% Of 4/5, Loss:[0.02416484], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.865Hrs 0Mins 0Secs remaining  ########
+Epoch:31.0% Of 4/5, Loss:[0.02060749], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.8630555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:31.5% Of 4/5, Loss:[0.02039089], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.8786111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:32.0% Of 4/5, Loss:[0.00995067], Batch Acc:97.0%, Epoch Acc:93.0%
+########  2.8655555555555554Hrs 0Mins 0Secs remaining  ########
+Epoch:32.5% Of 4/5, Loss:[0.02644221], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.861388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:33.0% Of 4/5, Loss:[0.01798654], Batch Acc:96.0%, Epoch Acc:93.0%
+########  2.8230555555555554Hrs 0Mins 0Secs remaining  ########
+Epoch:33.5% Of 4/5, Loss:[0.02068096], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.8369444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:34.0% Of 4/5, Loss:[0.01994021], Batch Acc:95.0%, Epoch Acc:93.0%
+########  3.2891666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:34.5% Of 4/5, Loss:[0.01330043], Batch Acc:95.0%, Epoch Acc:93.0%
+########  3.5425Hrs 0Mins 0Secs remaining  ########
+Epoch:35.0% Of 4/5, Loss:[0.01975209], Batch Acc:93.0%, Epoch Acc:93.0%
+########  3.507222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:35.5% Of 4/5, Loss:[0.03364783], Batch Acc:92.0%, Epoch Acc:93.0%
+########  3.1725Hrs 0Mins 0Secs remaining  ########
+Epoch:36.0% Of 4/5, Loss:[0.00654303], Batch Acc:99.0%, Epoch Acc:93.0%
+########  2.7577777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:36.5% Of 4/5, Loss:[0.02104934], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.769722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:37.0% Of 4/5, Loss:[0.02371416], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.7408333333333332Hrs 0Mins 0Secs remaining  ########
+Epoch:37.5% Of 4/5, Loss:[0.01278356], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.742777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:38.0% Of 4/5, Loss:[0.02773436], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.743333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:38.5% Of 4/5, Loss:[0.02985133], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.7283333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:39.0% Of 4/5, Loss:[0.02383731], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.709722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:39.5% Of 4/5, Loss:[0.02418966], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.693888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:40.0% Of 4/5, Loss:[0.02808069], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.682777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:40.5% Of 4/5, Loss:[0.02509437], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.6944444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:41.0% Of 4/5, Loss:[0.02363212], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.692222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:41.5% Of 4/5, Loss:[0.01365592], Batch Acc:97.0%, Epoch Acc:93.0%
+########  2.661111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:42.0% Of 4/5, Loss:[0.01619824], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.6577777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:42.5% Of 4/5, Loss:[0.0164745], Batch Acc:96.0%, Epoch Acc:93.0%
+########  2.6475Hrs 0Mins 0Secs remaining  ########
+Epoch:43.0% Of 4/5, Loss:[0.03701996], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.6369444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:43.5% Of 4/5, Loss:[0.02786161], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.6463888888888887Hrs 0Mins 0Secs remaining  ########
+Epoch:44.0% Of 4/5, Loss:[0.01368831], Batch Acc:94.0%, Epoch Acc:93.0%
+########  3.8755555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:44.5% Of 4/5, Loss:[0.01704808], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.6275Hrs 0Mins 0Secs remaining  ########
+Epoch:45.0% Of 4/5, Loss:[0.03482735], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.626388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:45.5% Of 4/5, Loss:[0.02456415], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.605Hrs 0Mins 0Secs remaining  ########
+Epoch:46.0% Of 4/5, Loss:[0.01499339], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.618611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:46.5% Of 4/5, Loss:[0.01203406], Batch Acc:96.0%, Epoch Acc:93.0%
+########  2.6013888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:47.0% Of 4/5, Loss:[0.02601012], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.6069444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:47.5% Of 4/5, Loss:[0.01894007], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.584722222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:48.0% Of 4/5, Loss:[0.02621787], Batch Acc:89.0%, Epoch Acc:93.0%
+########  2.5719444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:48.5% Of 4/5, Loss:[0.02279173], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.5505555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:49.0% Of 4/5, Loss:[0.02709937], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.557777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:49.5% Of 4/5, Loss:[0.02196598], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.5477777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:50.0% Of 4/5, Loss:[0.02129971], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.5355555555555553Hrs 0Mins 0Secs remaining  ########
+Epoch:50.5% Of 4/5, Loss:[0.02325083], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.52Hrs 0Mins 0Secs remaining  ########
+Epoch:51.0% Of 4/5, Loss:[0.03189269], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.511388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:51.5% Of 4/5, Loss:[0.02912579], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.4944444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:52.0% Of 4/5, Loss:[0.01674457], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.5211111111111113Hrs 0Mins 0Secs remaining  ########
+Epoch:52.5% Of 4/5, Loss:[0.00873074], Batch Acc:98.0%, Epoch Acc:93.0%
+########  2.4980555555555557Hrs 0Mins 0Secs remaining  ########
+Epoch:53.0% Of 4/5, Loss:[0.03282514], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.4972222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:53.5% Of 4/5, Loss:[0.03325163], Batch Acc:88.0%, Epoch Acc:93.0%
+########  2.4730555555555553Hrs 0Mins 0Secs remaining  ########
+Epoch:54.0% Of 4/5, Loss:[0.02605728], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.455Hrs 0Mins 0Secs remaining  ########
+Epoch:54.5% Of 4/5, Loss:[0.02433795], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.4444444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:55.0% Of 4/5, Loss:[0.0289575], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.4491666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:55.5% Of 4/5, Loss:[0.01544163], Batch Acc:97.0%, Epoch Acc:93.0%
+########  2.4555555555555557Hrs 0Mins 0Secs remaining  ########
+Epoch:56.0% Of 4/5, Loss:[0.04923984], Batch Acc:88.0%, Epoch Acc:93.0%
+########  2.4383333333333335Hrs 0Mins 0Secs remaining  ########
+Epoch:56.5% Of 4/5, Loss:[0.02352505], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.433333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:57.0% Of 4/5, Loss:[0.04547272], Batch Acc:85.0%, Epoch Acc:93.0%
+########  2.4291666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:57.5% Of 4/5, Loss:[0.01871128], Batch Acc:96.0%, Epoch Acc:93.0%
+########  2.415Hrs 0Mins 0Secs remaining  ########
+Epoch:58.0% Of 4/5, Loss:[0.01924426], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.3869444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:58.5% Of 4/5, Loss:[0.02473371], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.4025Hrs 0Mins 0Secs remaining  ########
+Epoch:59.0% Of 4/5, Loss:[0.02236061], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.3738888888888887Hrs 0Mins 0Secs remaining  ########
+Epoch:59.5% Of 4/5, Loss:[0.01656452], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.3794444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:60.0% Of 4/5, Loss:[0.02120911], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.3741666666666665Hrs 0Mins 0Secs remaining  ########
+Epoch:60.5% Of 4/5, Loss:[0.02707477], Batch Acc:89.0%, Epoch Acc:93.0%
+########  2.350277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:61.0% Of 4/5, Loss:[0.01524055], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.3491666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:61.5% Of 4/5, Loss:[0.02974812], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.337222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:62.0% Of 4/5, Loss:[0.01410584], Batch Acc:97.0%, Epoch Acc:93.0%
+########  2.3233333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:62.5% Of 4/5, Loss:[0.0202177], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.326111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:63.0% Of 4/5, Loss:[0.04507297], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.328888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:63.5% Of 4/5, Loss:[0.01675131], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.3222222222222224Hrs 0Mins 0Secs remaining  ########
+Epoch:64.0% Of 4/5, Loss:[0.02133602], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.303611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:64.5% Of 4/5, Loss:[0.03748575], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.2802777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:65.0% Of 4/5, Loss:[0.01774392], Batch Acc:97.0%, Epoch Acc:93.0%
+########  2.2830555555555554Hrs 0Mins 0Secs remaining  ########
+Epoch:65.5% Of 4/5, Loss:[0.03342292], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.2933333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:66.0% Of 4/5, Loss:[0.04229901], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.265Hrs 0Mins 0Secs remaining  ########
+Epoch:66.5% Of 4/5, Loss:[0.0399797], Batch Acc:89.0%, Epoch Acc:93.0%
+########  2.2713888888888887Hrs 0Mins 0Secs remaining  ########
+Epoch:67.0% Of 4/5, Loss:[0.01733109], Batch Acc:96.0%, Epoch Acc:93.0%
+########  2.2444444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:67.5% Of 4/5, Loss:[0.03337969], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.2288888888888887Hrs 0Mins 0Secs remaining  ########
+Epoch:68.0% Of 4/5, Loss:[0.02109458], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.230277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:68.5% Of 4/5, Loss:[0.02343721], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.2075Hrs 0Mins 0Secs remaining  ########
+Epoch:69.0% Of 4/5, Loss:[0.0283085], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.207222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:69.5% Of 4/5, Loss:[0.01647927], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.195Hrs 0Mins 0Secs remaining  ########
+Epoch:70.0% Of 4/5, Loss:[0.02307167], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.198888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:70.5% Of 4/5, Loss:[0.02209054], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.180277777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:71.0% Of 4/5, Loss:[0.03396516], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.1905555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:71.5% Of 4/5, Loss:[0.01963215], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.1591666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:72.0% Of 4/5, Loss:[0.01176854], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.148888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:72.5% Of 4/5, Loss:[0.02684574], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.1680555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:73.0% Of 4/5, Loss:[0.01732246], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.1547222222222224Hrs 0Mins 0Secs remaining  ########
+Epoch:73.5% Of 4/5, Loss:[0.02988372], Batch Acc:89.0%, Epoch Acc:93.0%
+########  2.151666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:74.0% Of 4/5, Loss:[0.00763695], Batch Acc:99.0%, Epoch Acc:93.0%
+########  2.136111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:74.5% Of 4/5, Loss:[0.02549168], Batch Acc:96.0%, Epoch Acc:93.0%
+########  2.1308333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:75.0% Of 4/5, Loss:[0.03202648], Batch Acc:94.0%, Epoch Acc:93.0%
+########  2.131111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:75.5% Of 4/5, Loss:[0.02310042], Batch Acc:93.0%, Epoch Acc:93.0%
+########  2.1044444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:76.0% Of 4/5, Loss:[0.03778962], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.0952777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:76.5% Of 4/5, Loss:[0.03322127], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.087222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:77.0% Of 4/5, Loss:[0.03835323], Batch Acc:90.0%, Epoch Acc:93.0%
+########  2.0725Hrs 0Mins 0Secs remaining  ########
+Epoch:77.5% Of 4/5, Loss:[0.02226364], Batch Acc:89.0%, Epoch Acc:93.0%
+########  2.077777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:78.0% Of 4/5, Loss:[0.01910499], Batch Acc:92.0%, Epoch Acc:93.0%
+########  2.0727777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:78.5% Of 4/5, Loss:[0.02029993], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.046111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:79.0% Of 4/5, Loss:[0.01966765], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.0327777777777776Hrs 0Mins 0Secs remaining  ########
+Epoch:79.5% Of 4/5, Loss:[0.014458], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.0394444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:80.0% Of 4/5, Loss:[0.02279718], Batch Acc:97.0%, Epoch Acc:93.0%
+########  2.0375Hrs 0Mins 0Secs remaining  ########
+Epoch:80.5% Of 4/5, Loss:[0.01910156], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.0213888888888887Hrs 0Mins 0Secs remaining  ########
+Epoch:81.0% Of 4/5, Loss:[0.04229272], Batch Acc:91.0%, Epoch Acc:93.0%
+########  2.025Hrs 0Mins 0Secs remaining  ########
+Epoch:81.5% Of 4/5, Loss:[0.01670071], Batch Acc:95.0%, Epoch Acc:93.0%
+########  2.002222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:82.0% Of 4/5, Loss:[0.01038272], Batch Acc:96.0%, Epoch Acc:93.0%
+########  1.9980555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:82.5% Of 4/5, Loss:[0.0280198], Batch Acc:91.0%, Epoch Acc:93.0%
+########  1.986388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:83.0% Of 4/5, Loss:[0.03620082], Batch Acc:94.0%, Epoch Acc:93.0%
+########  1.9872222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:83.5% Of 4/5, Loss:[0.02564332], Batch Acc:89.0%, Epoch Acc:93.0%
+########  1.978611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:84.0% Of 4/5, Loss:[0.02506534], Batch Acc:90.0%, Epoch Acc:93.0%
+########  1.9730555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:84.5% Of 4/5, Loss:[0.03555411], Batch Acc:86.0%, Epoch Acc:93.0%
+########  1.9544444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:85.0% Of 4/5, Loss:[0.02196576], Batch Acc:94.0%, Epoch Acc:93.0%
+########  1.9447222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:85.5% Of 4/5, Loss:[0.03323442], Batch Acc:93.0%, Epoch Acc:93.0%
+########  1.9280555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:86.0% Of 4/5, Loss:[0.02230624], Batch Acc:94.0%, Epoch Acc:93.0%
+########  1.9219444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:86.5% Of 4/5, Loss:[0.00963408], Batch Acc:97.0%, Epoch Acc:93.0%
+########  1.9308333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:87.0% Of 4/5, Loss:[0.01275829], Batch Acc:97.0%, Epoch Acc:93.0%
+########  1.9147222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:87.5% Of 4/5, Loss:[0.01359407], Batch Acc:95.0%, Epoch Acc:93.0%
+########  1.8936111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:88.0% Of 4/5, Loss:[0.01929135], Batch Acc:95.0%, Epoch Acc:93.0%
+########  1.9005555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:88.5% Of 4/5, Loss:[0.02381427], Batch Acc:93.0%, Epoch Acc:93.0%
+########  1.8752777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:89.0% Of 4/5, Loss:[0.02292864], Batch Acc:93.0%, Epoch Acc:93.0%
+########  1.8883333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:89.5% Of 4/5, Loss:[0.02052064], Batch Acc:94.0%, Epoch Acc:93.0%
+########  1.865Hrs 0Mins 0Secs remaining  ########
+Epoch:90.0% Of 4/5, Loss:[0.02258365], Batch Acc:92.0%, Epoch Acc:93.0%
+########  1.8644444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:90.5% Of 4/5, Loss:[0.01439991], Batch Acc:95.0%, Epoch Acc:93.0%
+########  1.8505555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:91.0% Of 4/5, Loss:[0.0242777], Batch Acc:92.0%, Epoch Acc:93.0%
+########  1.8411111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:91.5% Of 4/5, Loss:[0.02606716], Batch Acc:94.0%, Epoch Acc:93.0%
+########  1.84Hrs 0Mins 0Secs remaining  ########
+Epoch:92.0% Of 4/5, Loss:[0.02302442], Batch Acc:93.0%, Epoch Acc:93.0%
+########  1.8308333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:92.5% Of 4/5, Loss:[0.01678067], Batch Acc:93.0%, Epoch Acc:93.0%
+########  1.8291666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:93.0% Of 4/5, Loss:[0.02342473], Batch Acc:90.0%, Epoch Acc:93.0%
+########  1.818888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:93.5% Of 4/5, Loss:[0.03192359], Batch Acc:93.0%, Epoch Acc:93.0%
+########  1.7969444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:94.0% Of 4/5, Loss:[0.01735001], Batch Acc:94.0%, Epoch Acc:93.0%
+########  1.8033333333333332Hrs 0Mins 0Secs remaining  ########
+Epoch:94.5% Of 4/5, Loss:[0.02491284], Batch Acc:93.0%, Epoch Acc:93.0%
+########  1.7916666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:95.0% Of 4/5, Loss:[0.01806258], Batch Acc:94.0%, Epoch Acc:93.0%
+########  1.775Hrs 0Mins 0Secs remaining  ########
+Epoch:95.5% Of 4/5, Loss:[0.02410296], Batch Acc:98.0%, Epoch Acc:93.0%
+########  1.7755555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:96.0% Of 4/5, Loss:[0.01845686], Batch Acc:94.0%, Epoch Acc:93.0%
+########  1.7594444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:96.5% Of 4/5, Loss:[0.01601143], Batch Acc:96.0%, Epoch Acc:93.0%
+########  1.7402777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:97.0% Of 4/5, Loss:[0.01922118], Batch Acc:91.0%, Epoch Acc:93.0%
+########  1.736388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:97.5% Of 4/5, Loss:[0.01112465], Batch Acc:97.0%, Epoch Acc:93.0%
+########  1.7272222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:98.0% Of 4/5, Loss:[0.02730127], Batch Acc:92.0%, Epoch Acc:93.0%
+########  1.7169444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:98.5% Of 4/5, Loss:[0.01607452], Batch Acc:95.0%, Epoch Acc:93.0%
+########  1.7161111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:99.0% Of 4/5, Loss:[0.02367062], Batch Acc:96.0%, Epoch Acc:93.0%
+########  1.7116666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:99.5% Of 4/5, Loss:[0.01613704], Batch Acc:95.0%, Epoch Acc:93.0%
+########  1.6972222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:100.0% Of 4/5, Loss:[0.03623725], Batch Acc:89.0%, Epoch Acc:93.0%
+########  1.6969444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:0.5% Of 5/5, Loss:[0.02287533], Batch Acc:92.0%, Epoch Acc:92.0%
+########  1.6827777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:1.0% Of 5/5, Loss:[0.00816224], Batch Acc:97.0%, Epoch Acc:94.0%
+########  1.675Hrs 0Mins 0Secs remaining  ########
+Epoch:1.5% Of 5/5, Loss:[0.01730568], Batch Acc:95.0%, Epoch Acc:95.0%
+########  1.666111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:2.0% Of 5/5, Loss:[0.01747798], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.6602777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:2.5% Of 5/5, Loss:[0.00713844], Batch Acc:97.0%, Epoch Acc:95.0%
+########  1.6516666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:3.0% Of 5/5, Loss:[0.02404687], Batch Acc:94.0%, Epoch Acc:95.0%
+########  1.6466666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:3.5% Of 5/5, Loss:[0.01929183], Batch Acc:95.0%, Epoch Acc:95.0%
+########  1.6327777777777779Hrs 0Mins 0Secs remaining  ########
+Epoch:4.0% Of 5/5, Loss:[0.01724348], Batch Acc:93.0%, Epoch Acc:95.0%
+########  1.6208333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:4.5% Of 5/5, Loss:[0.00973124], Batch Acc:97.0%, Epoch Acc:95.0%
+########  1.6236111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:5.0% Of 5/5, Loss:[0.01458784], Batch Acc:94.0%, Epoch Acc:95.0%
+########  1.6077777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:5.5% Of 5/5, Loss:[0.02843265], Batch Acc:87.0%, Epoch Acc:94.0%
+########  1.6127777777777779Hrs 0Mins 0Secs remaining  ########
+Epoch:6.0% Of 5/5, Loss:[0.02900923], Batch Acc:92.0%, Epoch Acc:94.0%
+########  1.5933333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:6.5% Of 5/5, Loss:[0.01597199], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.583888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:7.0% Of 5/5, Loss:[0.02150221], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.583611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:7.5% Of 5/5, Loss:[0.03353748], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.5725Hrs 0Mins 0Secs remaining  ########
+Epoch:8.0% Of 5/5, Loss:[0.0164765], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.558888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:8.5% Of 5/5, Loss:[0.03087436], Batch Acc:91.0%, Epoch Acc:94.0%
+########  1.5611111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:9.0% Of 5/5, Loss:[0.01778604], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.5425Hrs 0Mins 0Secs remaining  ########
+Epoch:9.5% Of 5/5, Loss:[0.00941851], Batch Acc:96.0%, Epoch Acc:94.0%
+########  1.545Hrs 0Mins 0Secs remaining  ########
+Epoch:10.0% Of 5/5, Loss:[0.02468642], Batch Acc:91.0%, Epoch Acc:94.0%
+########  1.5319444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:10.5% Of 5/5, Loss:[0.03074594], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.5094444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:11.0% Of 5/5, Loss:[0.01977905], Batch Acc:92.0%, Epoch Acc:94.0%
+########  1.496388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:11.5% Of 5/5, Loss:[0.01637509], Batch Acc:97.0%, Epoch Acc:94.0%
+########  1.5002777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:12.0% Of 5/5, Loss:[0.01836486], Batch Acc:96.0%, Epoch Acc:94.0%
+########  1.5Hrs 0Mins 0Secs remaining  ########
+Epoch:12.5% Of 5/5, Loss:[0.01707579], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.48Hrs 0Mins 0Secs remaining  ########
+Epoch:13.0% Of 5/5, Loss:[0.01086018], Batch Acc:96.0%, Epoch Acc:94.0%
+########  1.4775Hrs 0Mins 0Secs remaining  ########
+Epoch:13.5% Of 5/5, Loss:[0.01551191], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.4677777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:14.0% Of 5/5, Loss:[0.01415581], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.468611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:14.5% Of 5/5, Loss:[0.01366288], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.456388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:15.0% Of 5/5, Loss:[0.0305926], Batch Acc:91.0%, Epoch Acc:94.0%
+########  1.4336111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:15.5% Of 5/5, Loss:[0.01898778], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.423888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:16.0% Of 5/5, Loss:[0.01728544], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.4211111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:16.5% Of 5/5, Loss:[0.01797404], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.4069444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:17.0% Of 5/5, Loss:[0.01481512], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.4094444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:17.5% Of 5/5, Loss:[0.0155629], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.3913888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:18.0% Of 5/5, Loss:[0.02527955], Batch Acc:90.0%, Epoch Acc:94.0%
+########  1.3897222222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:18.5% Of 5/5, Loss:[0.03484839], Batch Acc:89.0%, Epoch Acc:94.0%
+########  1.3758333333333332Hrs 0Mins 0Secs remaining  ########
+Epoch:19.0% Of 5/5, Loss:[0.02480411], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.3672222222222221Hrs 0Mins 0Secs remaining  ########
+Epoch:19.5% Of 5/5, Loss:[0.00690079], Batch Acc:97.0%, Epoch Acc:94.0%
+########  1.3625Hrs 0Mins 0Secs remaining  ########
+Epoch:20.0% Of 5/5, Loss:[0.02187879], Batch Acc:90.0%, Epoch Acc:94.0%
+########  1.3502777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:20.5% Of 5/5, Loss:[0.01447113], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.3477777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:21.0% Of 5/5, Loss:[0.01298708], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.3369444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:21.5% Of 5/5, Loss:[0.01696699], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.335Hrs 0Mins 0Secs remaining  ########
+Epoch:22.0% Of 5/5, Loss:[0.02014884], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.318888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:22.5% Of 5/5, Loss:[0.01287762], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.3119444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:23.0% Of 5/5, Loss:[0.02188085], Batch Acc:92.0%, Epoch Acc:94.0%
+########  1.293611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:23.5% Of 5/5, Loss:[0.03125238], Batch Acc:90.0%, Epoch Acc:94.0%
+########  1.2975Hrs 0Mins 0Secs remaining  ########
+Epoch:24.0% Of 5/5, Loss:[0.01616403], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.2897222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:24.5% Of 5/5, Loss:[0.01271383], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.2705555555555557Hrs 0Mins 0Secs remaining  ########
+Epoch:25.0% Of 5/5, Loss:[0.01739739], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.261388888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:25.5% Of 5/5, Loss:[0.04239684], Batch Acc:92.0%, Epoch Acc:94.0%
+########  1.2647222222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:26.0% Of 5/5, Loss:[0.01921067], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.2483333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:26.5% Of 5/5, Loss:[0.02130156], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.2438888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:27.0% Of 5/5, Loss:[0.01440616], Batch Acc:92.0%, Epoch Acc:94.0%
+########  1.2341666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:27.5% Of 5/5, Loss:[0.02469341], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.2222222222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:28.0% Of 5/5, Loss:[0.01377862], Batch Acc:97.0%, Epoch Acc:94.0%
+########  1.2175Hrs 0Mins 0Secs remaining  ########
+Epoch:28.5% Of 5/5, Loss:[0.0112941], Batch Acc:96.0%, Epoch Acc:94.0%
+########  1.208888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:29.0% Of 5/5, Loss:[0.01925301], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.201111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:29.5% Of 5/5, Loss:[0.01427357], Batch Acc:96.0%, Epoch Acc:94.0%
+########  1.1897222222222221Hrs 0Mins 0Secs remaining  ########
+Epoch:30.0% Of 5/5, Loss:[0.0165555], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.1877777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:30.5% Of 5/5, Loss:[0.01995169], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.1783333333333332Hrs 0Mins 0Secs remaining  ########
+Epoch:31.0% Of 5/5, Loss:[0.01354144], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.17Hrs 0Mins 0Secs remaining  ########
+Epoch:31.5% Of 5/5, Loss:[0.03084265], Batch Acc:92.0%, Epoch Acc:94.0%
+########  1.156111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:32.0% Of 5/5, Loss:[0.02699404], Batch Acc:89.0%, Epoch Acc:94.0%
+########  1.1488888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:32.5% Of 5/5, Loss:[0.02897207], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.136111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:33.0% Of 5/5, Loss:[0.02541816], Batch Acc:90.0%, Epoch Acc:94.0%
+########  1.1302777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:33.5% Of 5/5, Loss:[0.01376904], Batch Acc:97.0%, Epoch Acc:94.0%
+########  1.1241666666666668Hrs 0Mins 0Secs remaining  ########
+Epoch:34.0% Of 5/5, Loss:[0.01841025], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.1241666666666668Hrs 0Mins 0Secs remaining  ########
+Epoch:34.5% Of 5/5, Loss:[0.0333752], Batch Acc:88.0%, Epoch Acc:94.0%
+########  1.1141666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:35.0% Of 5/5, Loss:[0.0122959], Batch Acc:97.0%, Epoch Acc:94.0%
+########  1.0986111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:35.5% Of 5/5, Loss:[0.01739372], Batch Acc:97.0%, Epoch Acc:94.0%
+########  1.0877777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:36.0% Of 5/5, Loss:[0.01731082], Batch Acc:98.0%, Epoch Acc:94.0%
+########  1.0883333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:36.5% Of 5/5, Loss:[0.01652913], Batch Acc:95.0%, Epoch Acc:94.0%
+########  1.0769444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:37.0% Of 5/5, Loss:[0.00886677], Batch Acc:98.0%, Epoch Acc:94.0%
+########  1.063611111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:37.5% Of 5/5, Loss:[0.02089841], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.0575Hrs 0Mins 0Secs remaining  ########
+Epoch:38.0% Of 5/5, Loss:[0.01593384], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.0430555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:38.5% Of 5/5, Loss:[0.01015393], Batch Acc:97.0%, Epoch Acc:94.0%
+########  1.0419444444444443Hrs 0Mins 0Secs remaining  ########
+Epoch:39.0% Of 5/5, Loss:[0.01688088], Batch Acc:96.0%, Epoch Acc:94.0%
+########  1.0341666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:39.5% Of 5/5, Loss:[0.02123936], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.0258333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:40.0% Of 5/5, Loss:[0.01577866], Batch Acc:93.0%, Epoch Acc:94.0%
+########  1.02Hrs 0Mins 0Secs remaining  ########
+Epoch:40.5% Of 5/5, Loss:[0.02169037], Batch Acc:94.0%, Epoch Acc:94.0%
+########  1.0055555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:41.0% Of 5/5, Loss:[0.03516315], Batch Acc:89.0%, Epoch Acc:94.0%
+########  1.0038888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:41.5% Of 5/5, Loss:[0.00981803], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.9861111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:42.0% Of 5/5, Loss:[0.02566452], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.9841666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:42.5% Of 5/5, Loss:[0.02660871], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.9738888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:43.0% Of 5/5, Loss:[0.02438824], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.9652777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:43.5% Of 5/5, Loss:[0.0313098], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.9580555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:44.0% Of 5/5, Loss:[0.00989898], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.9469444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:44.5% Of 5/5, Loss:[0.02597706], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.9383333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:45.0% Of 5/5, Loss:[0.03122513], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.9319444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:45.5% Of 5/5, Loss:[0.01228336], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.9258333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:46.0% Of 5/5, Loss:[0.02083199], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.9169444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:46.5% Of 5/5, Loss:[0.01215666], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.9102777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:47.0% Of 5/5, Loss:[0.00418473], Batch Acc:100.0%, Epoch Acc:94.0%
+########  0.8969444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:47.5% Of 5/5, Loss:[0.02982241], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.8838888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:48.0% Of 5/5, Loss:[0.03132308], Batch Acc:88.0%, Epoch Acc:94.0%
+########  0.8733333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:48.5% Of 5/5, Loss:[0.00769459], Batch Acc:98.0%, Epoch Acc:94.0%
+########  0.87Hrs 0Mins 0Secs remaining  ########
+Epoch:49.0% Of 5/5, Loss:[0.0155274], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.86Hrs 0Mins 0Secs remaining  ########
+Epoch:49.5% Of 5/5, Loss:[0.00680004], Batch Acc:98.0%, Epoch Acc:94.0%
+########  0.8511111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:50.0% Of 5/5, Loss:[0.01816746], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.8483333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:50.5% Of 5/5, Loss:[0.01762935], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.8413888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:51.0% Of 5/5, Loss:[0.01371504], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.83Hrs 0Mins 0Secs remaining  ########
+Epoch:51.5% Of 5/5, Loss:[0.01087458], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.8177777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:52.0% Of 5/5, Loss:[0.01183101], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.8130555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:52.5% Of 5/5, Loss:[0.02264555], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.8002777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:53.0% Of 5/5, Loss:[0.01829639], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.7916666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:53.5% Of 5/5, Loss:[0.00894592], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.7833333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:54.0% Of 5/5, Loss:[0.01610292], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.7783333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:54.5% Of 5/5, Loss:[0.01987122], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.7711111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:55.0% Of 5/5, Loss:[0.032116], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.7666666666666667Hrs 0Mins 0Secs remaining  ########
+Epoch:55.5% Of 5/5, Loss:[0.02182826], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.7486111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:56.0% Of 5/5, Loss:[0.02385618], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.7444444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:56.5% Of 5/5, Loss:[0.01320927], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.7411111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:57.0% Of 5/5, Loss:[0.00991788], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.7238888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:57.5% Of 5/5, Loss:[0.01672062], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.7258333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:58.0% Of 5/5, Loss:[0.01452351], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.7052777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:58.5% Of 5/5, Loss:[0.01542754], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.7013888888888888Hrs 0Mins 0Secs remaining  ########
+Epoch:59.0% Of 5/5, Loss:[0.009676], Batch Acc:98.0%, Epoch Acc:94.0%
+########  0.6969444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:59.5% Of 5/5, Loss:[0.01551435], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.6866666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:60.0% Of 5/5, Loss:[0.00999793], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.6761111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:60.5% Of 5/5, Loss:[0.02661827], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.6627777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:61.0% Of 5/5, Loss:[0.01353019], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.6625Hrs 0Mins 0Secs remaining  ########
+Epoch:61.5% Of 5/5, Loss:[0.02558229], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.6519444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:62.0% Of 5/5, Loss:[0.01800352], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.6458333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:62.5% Of 5/5, Loss:[0.01021512], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.6330555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:63.0% Of 5/5, Loss:[0.01882809], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.6236111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:63.5% Of 5/5, Loss:[0.0258244], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.6247222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:64.0% Of 5/5, Loss:[0.03883833], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.6113888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:64.5% Of 5/5, Loss:[0.01172], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.5988888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:65.0% Of 5/5, Loss:[0.01104835], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.5952777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:65.5% Of 5/5, Loss:[0.0220142], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.5875Hrs 0Mins 0Secs remaining  ########
+Epoch:66.0% Of 5/5, Loss:[0.01895549], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.5808333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:66.5% Of 5/5, Loss:[0.01323449], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.5686111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:67.0% Of 5/5, Loss:[0.0227483], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.5569444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:67.5% Of 5/5, Loss:[0.01605565], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.555Hrs 0Mins 0Secs remaining  ########
+Epoch:68.0% Of 5/5, Loss:[0.01307283], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.5383333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:68.5% Of 5/5, Loss:[0.00744105], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.5325Hrs 0Mins 0Secs remaining  ########
+Epoch:69.0% Of 5/5, Loss:[0.00717155], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.5255555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:69.5% Of 5/5, Loss:[0.01366527], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.515Hrs 0Mins 0Secs remaining  ########
+Epoch:70.0% Of 5/5, Loss:[0.0104426], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.5069444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:70.5% Of 5/5, Loss:[0.02972831], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.5002777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:71.0% Of 5/5, Loss:[0.03185292], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.49Hrs 0Mins 0Secs remaining  ########
+Epoch:71.5% Of 5/5, Loss:[0.01940775], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.48194444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:72.0% Of 5/5, Loss:[0.01236313], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.4722222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:72.5% Of 5/5, Loss:[0.04850104], Batch Acc:89.0%, Epoch Acc:94.0%
+########  0.465Hrs 0Mins 0Secs remaining  ########
+Epoch:73.0% Of 5/5, Loss:[0.02262371], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.45555555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:73.5% Of 5/5, Loss:[0.01570709], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.4502777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:74.0% Of 5/5, Loss:[0.02584137], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.4411111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:74.5% Of 5/5, Loss:[0.02116831], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.4330555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:75.0% Of 5/5, Loss:[0.01719322], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.42055555555555557Hrs 0Mins 0Secs remaining  ########
+Epoch:75.5% Of 5/5, Loss:[0.02920698], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.41444444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:76.0% Of 5/5, Loss:[0.03706224], Batch Acc:88.0%, Epoch Acc:94.0%
+########  0.4047222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:76.5% Of 5/5, Loss:[0.016928], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.39861111111111114Hrs 0Mins 0Secs remaining  ########
+Epoch:77.0% Of 5/5, Loss:[0.04133278], Batch Acc:90.0%, Epoch Acc:94.0%
+########  0.3888888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:77.5% Of 5/5, Loss:[0.01252302], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.3819444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:78.0% Of 5/5, Loss:[0.03467674], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.3725Hrs 0Mins 0Secs remaining  ########
+Epoch:78.5% Of 5/5, Loss:[0.01428684], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.36333333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:79.0% Of 5/5, Loss:[0.02083341], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.3536111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:79.5% Of 5/5, Loss:[0.01020017], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.3477777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:80.0% Of 5/5, Loss:[0.01879668], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.3386111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:80.5% Of 5/5, Loss:[0.01915712], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.3302777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:81.0% Of 5/5, Loss:[0.03640455], Batch Acc:88.0%, Epoch Acc:94.0%
+########  0.3219444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:81.5% Of 5/5, Loss:[0.03060949], Batch Acc:90.0%, Epoch Acc:94.0%
+########  0.31277777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:82.0% Of 5/5, Loss:[0.01931243], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.30416666666666664Hrs 0Mins 0Secs remaining  ########
+Epoch:82.5% Of 5/5, Loss:[0.0256754], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.29833333333333334Hrs 0Mins 0Secs remaining  ########
+Epoch:83.0% Of 5/5, Loss:[0.0214372], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.28888888888888886Hrs 0Mins 0Secs remaining  ########
+Epoch:83.5% Of 5/5, Loss:[0.01478501], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.2797222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:84.0% Of 5/5, Loss:[0.01997647], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.27111111111111114Hrs 0Mins 0Secs remaining  ########
+Epoch:84.5% Of 5/5, Loss:[0.02249911], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.2644444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:85.0% Of 5/5, Loss:[0.01221358], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.25416666666666665Hrs 0Mins 0Secs remaining  ########
+Epoch:85.5% Of 5/5, Loss:[0.02491043], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.245Hrs 0Mins 0Secs remaining  ########
+Epoch:86.0% Of 5/5, Loss:[0.01775696], Batch Acc:91.0%, Epoch Acc:94.0%
+########  0.2361111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:86.5% Of 5/5, Loss:[0.04312064], Batch Acc:90.0%, Epoch Acc:94.0%
+########  0.23Hrs 0Mins 0Secs remaining  ########
+Epoch:87.0% Of 5/5, Loss:[0.01223341], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.21944444444444444Hrs 0Mins 0Secs remaining  ########
+Epoch:87.5% Of 5/5, Loss:[0.02197177], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.2125Hrs 0Mins 0Secs remaining  ########
+Epoch:88.0% Of 5/5, Loss:[0.02849042], Batch Acc:94.0%, Epoch Acc:94.0%
+########  0.20305555555555554Hrs 0Mins 0Secs remaining  ########
+Epoch:88.5% Of 5/5, Loss:[0.01710254], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.19527777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:89.0% Of 5/5, Loss:[0.01854061], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.18583333333333332Hrs 0Mins 0Secs remaining  ########
+Epoch:89.5% Of 5/5, Loss:[0.02286078], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.17805555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:90.0% Of 5/5, Loss:[0.03351094], Batch Acc:90.0%, Epoch Acc:94.0%
+########  0.16916666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:90.5% Of 5/5, Loss:[0.0205675], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.1622222222222222Hrs 0Mins 0Secs remaining  ########
+Epoch:91.0% Of 5/5, Loss:[0.01301186], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.15055555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:91.5% Of 5/5, Loss:[0.02527128], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.14277777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:92.0% Of 5/5, Loss:[0.01506644], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.13527777777777777Hrs 0Mins 0Secs remaining  ########
+Epoch:92.5% Of 5/5, Loss:[0.01971109], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.12666666666666668Hrs 0Mins 0Secs remaining  ########
+Epoch:93.0% Of 5/5, Loss:[0.02073203], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.11805555555555555Hrs 0Mins 0Secs remaining  ########
+Epoch:93.5% Of 5/5, Loss:[0.03506786], Batch Acc:88.0%, Epoch Acc:94.0%
+########  0.11055555555555556Hrs 0Mins 0Secs remaining  ########
+Epoch:94.0% Of 5/5, Loss:[0.02623879], Batch Acc:90.0%, Epoch Acc:94.0%
+########  0.10111111111111111Hrs 0Mins 0Secs remaining  ########
+Epoch:94.5% Of 5/5, Loss:[0.0155898], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.09277777777777778Hrs 0Mins 0Secs remaining  ########
+Epoch:95.0% Of 5/5, Loss:[0.01147763], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.08444444444444445Hrs 0Mins 0Secs remaining  ########
+Epoch:95.5% Of 5/5, Loss:[0.02837348], Batch Acc:92.0%, Epoch Acc:94.0%
+########  0.07611111111111112Hrs 0Mins 0Secs remaining  ########
+Epoch:96.0% Of 5/5, Loss:[0.0163358], Batch Acc:95.0%, Epoch Acc:94.0%
+########  0.0675Hrs 0Mins 0Secs remaining  ########
+Epoch:96.5% Of 5/5, Loss:[0.01115936], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.059444444444444446Hrs 0Mins 0Secs remaining  ########
+Epoch:97.0% Of 5/5, Loss:[0.00782906], Batch Acc:98.0%, Epoch Acc:94.0%
+########  0.050277777777777775Hrs 0Mins 0Secs remaining  ########
+Epoch:97.5% Of 5/5, Loss:[0.03362387], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.042222222222222223Hrs 0Mins 0Secs remaining  ########
+Epoch:98.0% Of 5/5, Loss:[0.02429303], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.03388888888888889Hrs 0Mins 0Secs remaining  ########
+Epoch:98.5% Of 5/5, Loss:[0.01143935], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.025Hrs 0Mins 0Secs remaining  ########
+Epoch:99.0% Of 5/5, Loss:[0.0234644], Batch Acc:93.0%, Epoch Acc:94.0%
+########  0.016666666666666666Hrs 0Mins 0Secs remaining  ########
+Epoch:99.5% Of 5/5, Loss:[0.01180111], Batch Acc:96.0%, Epoch Acc:94.0%
+########  0.008333333333333333Hrs 0Mins 0Secs remaining  ########
+Epoch:100.0% Of 5/5, Loss:[0.02152881], Batch Acc:97.0%, Epoch Acc:94.0%
+########  0.0Hrs 0Mins 0Secs remaining  ########
